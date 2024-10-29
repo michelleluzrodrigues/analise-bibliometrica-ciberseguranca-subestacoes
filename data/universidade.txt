@@ -1,0 +1,1020 @@
+Affiliation with Department	Record Count	% of 1.857
+Aalborg University Department Of Electronic Systems	2	0.108
+Aalborg University Department Of Energy Technology	6	0.323
+Aalborg University Faculty Of Engineering And Science	9	0.485
+Aalto University Department Of Computer Science	1	0.054
+Aalto University Department Of Electrical Engineering And Automation	1	0.054
+Aalto University School Of Electrical Engineering	1	0.054
+Aalto University School Of Science	1	0.054
+Aarhus School Of Business	1	0.054
+Aarhus University Department Of Business Development And Technology	1	0.054
+Aarhus University Department Of Computer Science	1	0.054
+Aarhus University Faculty Of Natural Sciences	1	0.054
+Abdelmalek Essaadi University Faculty Of Science	1	0.054
+Aberystwyth University Department Of Computer Science	1	0.054
+Agh University Of Science And Technology Department Of Telecommunications	1	0.054
+Agh University Of Science And Technology Faculty Of Computer Science Electronics And Telecommunications	1	0.054
+Agh University Of Science And Technology Faculty Of Electrical Engineering Automatics Computer Science And Biomedical Engineering	1	0.054
+Ain Shams University Faculty Of Computer And Information Science	4	0.215
+Ain Shams University Faculty Of Engineering	1	0.054
+Ajou University College Of Information Technology	1	0.054
+Al Azhar University Faculty Of Engineering	4	0.215
+Alfaisal University College Of Engineering	1	0.054
+Amirkabir University Of Technology Department Of Electrical Engineering	2	0.108
+Amity University Amity School Of Engineering And Technology	1	0.054
+Amrita Vishwa Vidyapeetham Amrita School Of Engineering	3	0.162
+Arab Academy For Science Technology And Maritime Transport College Of Engineering And Technology	1	0.054
+Arizona State University Ira A Fulton Schools Of Engineering	5	0.269
+Arizona State University School Of Electrical Computer And Energy Engineering	4	0.215
+Arizona State University School Of Sustainable Engineering And The Built Environment	1	0.054
+Aston University College Of Engineering And Physical Sciences	1	0.054
+Aston University School Of Engineering And Technology	1	0.054
+Auckland University Of Technology Electrical And Electronic Engineering Department	1	0.054
+Auckland University Of Technology Faculty Of Design And Creative Technologies	1	0.054
+Autonomous University Of Yucatan Faculty Of Engineering	1	0.054
+Bahauddin Zakariya University Faculty Of Science	1	0.054
+Bahauddin Zakariya University Institute Of Computing	1	0.054
+Beihang University School Of Computer Science And Engineering	1	0.054
+Beihang University School Of Electronic And Information Engineering	1	0.054
+Beijing Institute Of Technology School Of Computer Science And Technology	2	0.108
+Beijing Institute Of Technology School Of Information And Electronics	1	0.054
+Beijing Institute Of Technology School Of Mechanical Engineering	1	0.054
+Beijing Jiaotong University School Of Computer And Information Technology	1	0.054
+Beijing Jiaotong University School Of Electrical Engineering	1	0.054
+Beijing Jiaotong University School Of Mechanical Electronic And Control Engineering	2	0.108
+Beijing Key Laboratory Of Network System Architecture And Convergence	1	0.054
+Beijing University Of Posts And Telecommunications Institute Of Information Photonics And Optical Communications	2	0.108
+Beijing University Of Posts And Telecommunications Institute Of Network Technology	3	0.162
+Beijing University Of Posts And Telecommunications School Of Information And Communication Engineering	1	0.054
+Beijing University Of Technology Faculty Of Information Technology	2	0.108
+Ben Gurion University Of The Negev Cyber Security Research Center	2	0.108
+Ben Gurion University Of The Negev Department Of Software And Information Systems Engineering	1	0.054
+Ben Gurion University Of The Negev Faculty Of Engineering Sciences	1	0.054
+Benha University Faculty Of Engineering At Shoubra	12	0.646
+Birmingham City University Faculty Of Computing Engineering And The Built Environment	1	0.054
+Birmingham City University School Of Computing And Digital Technology	1	0.054
+Bogazici University Department Of Electrical And Electronics Engineering	1	0.054
+Bogazici University Faculty Of Engineering	1	0.054
+Brunel University London College Of Engineering Design And Physical Sciences	1	0.054
+Budapest University Of Technology And Economics Faculty Of Electrical Engineering And Informatics	1	0.054
+California Institute For Telecommunications And Information Technology	1	0.054
+Campinas State University Electrical Engineering And Computing Faculty	2	0.108
+Cardiff University College Of Physical Sciences And Engineering	6	0.323
+Cardiff University School Of Computer Science And Informatics	2	0.108
+Cardiff University School Of Engineering	4	0.215
+Carl Von Ossietzky University Of Oldenburg School Of Computing Science Business Administration Economics And Law	1	0.054
+Carl Von Ossietzky University Oldenburg Department Of Computer Science	1	0.054
+Carleton University Department Of Electronics	1	0.054
+Carleton University Faculty Of Engineering And Design	1	0.054
+Carleton University Sprott School Of Business	1	0.054
+Central Queensland University Centre For Intelligent Systems	1	0.054
+Central Queensland University School Of Engineering And Technology	2	0.108
+Central South University School Of Automation	2	0.108
+Centre D Etudes Et De Recherche En Thermique Environnement Et Systemes	1	0.054
+Chalmers University Of Technology Department Of Electrical Engineering	1	0.054
+Chang An University School Of Automobile	1	0.054
+Chang An University School Of Electronic Control	1	0.054
+Chengdu University Of Technology College Of Nuclear Technology And Automation Engineering	1	0.054
+China Agricultural University College Of Information And Electrical Engineering	1	0.054
+China Three Gorges University College Of Electrical Engineering And New Energy	2	0.108
+Chitkara Institute Of Engineering And Technology	1	0.054
+Chongqing University College Of Computer Science	1	0.054
+Chongqing University College Of Mechanical Engineering	1	0.054
+Chongqing University Faculty Of Built Environment	1	0.054
+Chongqing University Faculty Of Engineering	6	0.323
+Chongqing University Faculty Of Information Science	4	0.215
+Chongqing University Of Posts And Telecommunications College Of Computer Science And Technology	1	0.054
+Chongqing University Of Posts And Telecommunications School Of Automation	3	0.162
+Chongqing University School Of Automation	1	0.054
+Chongqing University School Of Economics And Business Administration	1	0.054
+Chongqing University School Of Electrical Engineering	5	0.269
+Chongqing University School Of Management Science And Real Estate	1	0.054
+Chongqing University School Of Software Engineering	3	0.162
+Chongqing University State Key Laboratory Of Mechanical Transmission	1	0.054
+Chongqing University State Key Laboratory Of Power Transmission Equipment And System Security And New Technology	2	0.108
+Chosun University College Of It Convergence	1	0.054
+Chosun University Department Of Information And Communication Engineering	1	0.054
+Chouaib Doukkali University Faculty Of Sciences	2	0.108
+Chulalongkorn University Department Of Electrical Engineering	1	0.054
+Chulalongkorn University Faculty Of Engineering	1	0.054
+City University Of Hong Kong College Of Engineering	7	0.377
+City University Of Hong Kong Department Of Computer Science	4	0.215
+City University Of Hong Kong Department Of Electronic Engineering	3	0.162
+City University Of Hong Kong School Of Data Science	1	0.054
+City University Of Hong Kong School Of Energy And Environment	1	0.054
+Coimbatore Institute Of Technology Department Of Computer Science And Engineering	1	0.054
+Comillas Pontifical University Icai School Of Engineering	1	0.054
+Concordia University Gina Cody School Of Engineering And Computer Science	2	0.108
+Cooperative Institute For Research In Environmental Sciences	2	0.108
+Covenant University College Of Engineering	2	0.108
+Covenant University Mechanical Engineering Department	1	0.054
+Curtin University Faculty Of Science And Engineering	1	0.054
+Curtin University School Of Electrical Engineering Computing And Mathematical Sciences	1	0.054
+Cyprus University Of Technology Department Of Electrical Engineering Computer Engineering And Informatics	4	0.215
+Cyprus University Of Technology Faculty Of Engineering And Technology	4	0.215
+Czech Technical University In Prague Faculty Of Electrical Engineering	1	0.054
+Dalhousie University Department Of Electrical And Computer Engineering	1	0.054
+Dalhousie University Faculty Of Computer Science	1	0.054
+Dalhousie University Faculty Of Engineering	1	0.054
+Dalian University Of Technology Faculty Of Electronic Information And Electrical Engineering	1	0.054
+De Montfort University Faculty Of Computing Engineering And Media	4	0.215
+De Montfort University School Of Computer Science And Informatics	4	0.215
+Deakin University Faculty Of Science Engineering And Built Environment	12	0.646
+Deakin University School Of Engineering	3	0.162
+Deakin University School Of Information Technology	10	0.539
+Delhi Technological University Department Of Electrical Engineering	1	0.054
+Democritus University Of Thrace Department Of Civil Engineering	1	0.054
+Democritus University Of Thrace Department Of Electrical And Computer Engineeirng	1	0.054
+Democritus University Of Thrace Department Of Production And Management Engineering	1	0.054
+Democritus University Of Thrace School Of Engineering	3	0.162
+Department Of Computer Science And Engineering	1	0.054
+Department Of Mathematical Sciences	1	0.054
+Dokuz Eylül University The Graduate School Of Natural And Applied Sciences	1	0.054
+Durham University Department Of Engineering	2	0.108
+Durham University Faculty Of Science	2	0.108
+Eastman Institute For Oral Health	1	0.054
+Edge Hill University Department Of Computer Science	1	0.054
+Edge Hill University Faculty Of Arts And Sciences	1	0.054
+Edinburgh Napier University School Of Computing	5	0.269
+Edinburgh Napier University School Of Engineering And The Built Environment	3	0.162
+Edith Cowan University School Of Engineering	1	0.054
+Edith Cowan University School Of Science	2	0.108
+Effat University College Of Engineering	2	0.108
+Estonian University Of Life Sciences Institute Of Technology	1	0.054
+Eth Zurich Computational Social Science	1	0.054
+Eth Zurich Department Of Humanities Social And Political Sciences	1	0.054
+Eth Zurich Department Of Mechanical And Process Engineering	1	0.054
+Eth Zurich Institute Of Energy And Process Engineering	1	0.054
+Ets De Ingenieros De Telecomunicacion	1	0.054
+Federal University Of Minas Gerais Department Of Electronic Engineering	1	0.054
+Federal University Of Minas Gerais School Of Engineering	1	0.054
+Federal University Of Para Institute Of Technology	1	0.054
+Federal University Of Rio Grande Do Sul Computing Institute	1	0.054
+Feng Chia University College Of Information And Electrical Engineering	1	0.054
+Feng Chia University Department Of Information Engineering And Computer Science	1	0.054
+Flinders University College Of Science And Engineering	2	0.108
+Florida A M University Florida State University College Of Engineering	2	0.108
+Florida International University College Of Engineering Computing	12	0.646
+Florida International University School Of Electrical Computer And Enterprise Engineering	12	0.646
+Fordham University Department Of Computer And Information Science	1	0.054
+Fudan University Department Of Aeronautics And Astronautics	1	0.054
+Fudan University Department Of Mechanics And Engineering Science	1	0.054
+Fudan University School Of Computer Science	1	0.054
+Fudan University School Of Information Science And Engineering	1	0.054
+Fudan University School Of Microelectronics	1	0.054
+Fudan University State Key Laboratory Of Asic And System	1	0.054
+Future University Faculty Of Computers And Information Technology	1	0.054
+Future University Faculty Of Engineering And Technology	2	0.108
+Fuzhou University College Of Computer And Data Science Software	1	0.054
+Fuzhou University Department Of Computer Science And Technology	1	0.054
+Gazi University Faculty Of Technology	3	0.162
+Georgia Institute Of Technology College Of Engineering	1	0.054
+Georgia Institute Of Technology H Milton Stewart School Of Industrial And Systems Engineering	1	0.054
+Georgia Institute Of Technology School Of Electrical And Computer Engineering	1	0.054
+Ghent University Department Of Information Technology	1	0.054
+Ghent University Faculty Of Engineering And Architecture	1	0.054
+Gitam Deemed To Be University School Of Technology	1	0.054
+Gla University Institute Of Engineering And Technology	1	0.054
+Griffith University Griffith Sciences	6	0.323
+Griffith University School Of Engineering And Built Environment	2	0.108
+Griffith University School Of Environment And Science	2	0.108
+Griffith University School Of Information And Communication Technology	4	0.215
+Guangxi University School Of Electrical Engineering	3	0.162
+Hacettepe University Faculty Of Engineering	1	0.054
+Hamad Bin Khalifa University College Of Science And Engineering	2	0.108
+Hanoi University Of Science And Technology School Of Applied Mathematics And Informatics	1	0.054
+Hanyang University College Of Engineering	1	0.054
+Hanyang University Department Of Mechanical Engineering	1	0.054
+Hanyang University Erica Campus	1	0.054
+Harbin Engineering University College Of Shipbuilding Engineering	1	0.054
+Harbin Institute Of Technology Graduate School At Shenzhen	2	0.108
+Harbin Institute Of Technology School Of Architecture	1	0.054
+Harbin Institute Of Technology School Of Astronautics	1	0.054
+Harbin Institute Of Technology School Of Electrical Engineering And Automation	2	0.108
+Harbin Institute Of Technology School Of Electronics And Information Engineering	1	0.054
+Harbin Institute Of Technology Shenzhen School Of Computer Science And Technology	2	0.108
+Henan University Henan Key Laboratory Of Big Data Analysis And Processing	1	0.054
+Henan University School Of Computer And Information Engineering	1	0.054
+Heriot Watt University School Of Engineering And Physical Sciences	1	0.054
+Hohai University Business School	1	0.054
+Hohai University College Of Computer And Information	1	0.054
+Hohai University College Of Energy And Electrical Engineering	1	0.054
+Hohai University Department Of Communication Engineering	1	0.054
+Hohai University Information Department	1	0.054
+Huazhong University Of Science And Technology School Of Artificial Intelligence And Automation	2	0.108
+Huazhong University Of Science And Technology School Of Electrical And Electronic Engineering	1	0.054
+Huazhong University Of Science And Technology School Of Electronic Information And Communications	4	0.215
+Huazhong University Of Science And Technology School Of Energy And Power Engineering	1	0.054
+Huazhong University Of Science And Technology State Key Laboratory Of Advanced Electromagnetic Engineering And Technology	1	0.054
+Hunan University Business School	1	0.054
+Hunan University College Of Electrical And Information Engineering	3	0.162
+Hunan University College Of Mechanical And Vehicle Engineering	1	0.054
+Idaho State University College Of Science And Engineering	9	0.485
+Imam Abdulrahman Bin Faisal University College Of Computer Science And Information Technology	2	0.108
+Imperial College London Department Of Bioengineering	1	0.054
+Imperial College London Department Of Electrical And Electronic Engineering	1	0.054
+Imperial College London Faculty Of Engineering	2	0.108
+Indian Institute Of Science Division Of Interdisciplinary Sciences	1	0.054
+Indian Institute Of Science Supercomputer Education And Research Center	1	0.054
+Indian Institute Of Technology Bombay Department Of Electrical Engineering	1	0.054
+Indian Institute Of Technology Kanpur Department Of Computer Science And Engineering	2	0.108
+Indian Institute Of Technology Kanpur Department Of Electrical Engineering	1	0.054
+Indian Institute Of Technology Kharagpur Department Of Computer Science And Engineering	1	0.054
+Indian Institute Of Technology Kharagpur Department Of Electrical Engineering	2	0.108
+Indian Institute Of Technology Kharagpur Faculty Of Engineering And Architecture	2	0.108
+Indian Institute Of Technology Kharagpur School Of Energy Science And Engineering	2	0.108
+Indian Institute Of Technology Madras Department Of Computer Science And Engineering	1	0.054
+Indian Institute Of Technology Madras Department Of Electrical Engineering	1	0.054
+Indian Institute Of Technology Madras Robert Bosch Centre For Data Science And Artificial Intelligence	1	0.054
+Indian Institute Of Technology Roorkee Department Of Electrical Engineering	1	0.054
+Inonu University Faculty Of Engineering	1	0.054
+Institute For Space Earth Environment Research	1	0.054
+Institute Of Mechanical Engineering	1	0.054
+Instituto Superior Tecnico	3	0.162
+Interdisciplinary Professional Unit Of Engineering And Social And Administrative Sciences	1	0.054
+Iowa State University College Of Engineering	3	0.162
+Iowa State University College Of Engineering Department Of Mechanical Engineering	1	0.054
+Iowa State University Department Of Electrical And Computer Engineering	2	0.108
+Iran University Of Science And Technology School Of Electrical Engineering	1	0.054
+Isfahan University Of Technology Department Of Electrical And Computer Engineering	2	0.108
+Islamic Azad University Central Tehran Branch	1	0.054
+Islamic Azad University Khomeini Shahr Branch	1	0.054
+Islamic Azad University Najafabad Branch	1	0.054
+Islamic Azad University Science And Research Branch	1	0.054
+Istanbul Technical University Department Of Electrical Engineering	4	0.215
+Istanbul Technical University Department Of Electronics And Communication Engineering	1	0.054
+Istanbul Technical University Faculty Of Electrical And Electronic Engineering	5	0.269
+Istanbul Technical University Informatics Institute	1	0.054
+Istanbul University Cerrahpasa Department Of Electrical And Electronics Engineering	1	0.054
+Istanbul University Cerrahpasa Faculty Of Engineering	1	0.054
+James Cook University College Of Science And Engineering	1	0.054
+Jamia Millia Islamia Faculty Of Engineering And Technology	1	0.054
+Jiangsu University School Of Energy And Power Engineering	2	0.108
+Jilin University School Of Artificial Intelligence	1	0.054
+Johns Hopkins Medicine	1	0.054
+Johns Hopkins University School Of Medicine	1	0.054
+K N Toosi University Of Technology Faculty Of Electrical Engineering	1	0.054
+Kanazawa University College Of Science And Engineering	1	0.054
+Kanazawa University College Of Science And Engineering School Of Electrical Information And Communication Engineering	1	0.054
+Karlstad University Faculty Of Health Science And Technology	1	0.054
+Karlstads University Department Of Mathematics And Computer Science	1	0.054
+Kasetsart University Department Of Electrical Engineering	1	0.054
+Kasetsart University Faculty Of Engineering	1	0.054
+Keio University Faculty Of Science And Technology Graduate School Of Science And Technology	1	0.054
+Kennesaw State University College Of Computing And Software Engineering	3	0.162
+Kennesaw State University Department Of Computer Science	1	0.054
+Key Laboratory Of C And Pc Structures Of Ministry Of Education	1	0.054
+Key Laboratory On Machine Perception	1	0.054
+Khalifa University College Of Engineering	2	0.108
+Khalifa University Department Of Electrical Engineering And Computer Science	2	0.108
+Kiit University School Of Electronics Engineering	2	0.108
+King Abdulaziz University Faculty Of Computing And Information Technology	10	0.539
+King Abdulaziz University Faculty Of Economics And Administration	1	0.054
+King Abdulaziz University Faculty Of Engineering	1	0.054
+King Abdullah University Of Science And Technology Computer Electrical And Mathematical Science And Engineering Division	1	0.054
+King Fahd University Of Petroleum And Minerals College Of Computer Sciences And Engineering	1	0.054
+King Fahd University Of Petroleum And Minerals College Of Engineering Sciences And Applied Engineering	2	0.108
+King Fahd University Of Petroleum Minerals Electrical Engineering Department	2	0.108
+King Khalid University College Of Engineering	5	0.269
+King Khalid University Mechanical Engineering Department	1	0.054
+King Mongkut S Institute Of Technology Ladkrabang Department Of Electronics Engineering	1	0.054
+King Mongkut S Institute Of Technology Ladkrabang Faculty Of Engineering	2	0.108
+King Mongkut S University Of Technology North Bangkok College Of Industrial Technology	1	0.054
+King Mongkut S University Of Technology North Bangkok Department Of Electronics Engineering Technology	1	0.054
+King Mongkut S University Of Technology North Bangkok Faculty Of Engineering	1	0.054
+King Saud University College Of Applied Medical Sciences	2	0.108
+King Saud University College Of Architecture And Planning	2	0.108
+King Saud University College Of Computer And Information Sciences	18	0.969
+King Saud University College Of Science	2	0.108
+King Saud University Department Of Chemistry	1	0.054
+King Saud University Department Of Computer Engineering	9	0.485
+King Saud University Department Of Information Systems	3	0.162
+Kingston University Faculty Of Science Engineering And Computing	1	0.054
+Kios Research And Innovation Center Of Excellence	1	0.054
+Korea University College Of Engineering	2	0.108
+Korea University School Of Electrical Engineering	2	0.108
+Kth Royal Institute Of Technology Department Of Intelligent Systems	1	0.054
+Kth Royal Institute Of Technology School Of Electrical Engineering And Computer Science	5	0.269
+Ku Leuven Department Of Electrical Engineering	1	0.054
+Ku Leuven Department Of Mechanical Engineering	2	0.108
+Ku Leuven Faculty Of Engineering	3	0.162
+Ku Leuven Science Engineering And Technology Group	3	0.162
+Kurukshetra University Department Of Computer Science And Engineering	1	0.054
+Kurukshetra University University Institute Of Engineering And Technology	1	0.054
+Kyungpook National University College Of It Engineering	2	0.108
+Kyungpook National University School Of Electronics Engineering	2	0.108
+La Trobe University Department Of Computer Science And Information Technology	3	0.162
+La Trobe University School Of Computing Engineering And Mathematical Sciences	3	0.162
+Lancaster University Faculty Of Science And Technology	3	0.162
+Lancaster University School Of Computing And Communications	3	0.162
+Lehigh University Department Of Electrical And Computer Engineering	3	0.162
+Lehigh University P C Rossin College Of Engineering And Applied Science	3	0.162
+Liverpool John Moores University Faculty Of Engineering And Technology	2	0.108
+Liverpool John Moores University School Of Computer Science And Mathematics	1	0.054
+Liverpool John Moores University School Of Engineering	1	0.054
+London South Bank University School Of Engineering	1	0.054
+Lorestan University Faculty Of Engineering	1	0.054
+Lovely Professional University Division Of Research And Development	3	0.162
+Lovely Professional University School Of Chemical Engineering And Physical Sciences	1	0.054
+Lulea University Of Technology Department Of Computer Science Electrical And Space Engineering	4	0.215
+Lut School Of Engineering Science	1	0.054
+M Hamed Bougara University Of Boumerdes Institute Of Electrical And Electronics Engineering	1	0.054
+Macquarie University Department Of Computing	4	0.215
+Macquarie University Faculty Of Science And Engineering	13	0.700
+Macquarie University School Of Engineering	10	0.539
+Majmaah University College Of Engineering	1	0.054
+Malaviya National Institute Of Technology Department Of Electrical Engineering	1	0.054
+Manav Rachna International Institute Of Research And Studies Faculty Of Engineering Technology	1	0.054
+Manipal Institute Technology	1	0.054
+Mansoura University Faculty Of Computers And Information	1	0.054
+Mansoura University Faculty Of Engineering	1	0.054
+Mara University Of Technology Microwave Research Institute	1	0.054
+Masaryk University Faculty Of Informatics	1	0.054
+Masaryk University Institute Of Computer Science	1	0.054
+Massachusetts Institute Of Technology Department Of Mechanical Engineering	1	0.054
+Massachusetts Institute Of Technology School Of Engineering	1	0.054
+Massachusetts Institute Of Technology Sloan School Of Management	2	0.108
+Mcgill University Department Of Electrical And Computer Engineering	4	0.215
+Mcgill University Faculty Of Education	1	0.054
+Mcgill University Faculty Of Engineering	4	0.215
+Mcgill University Faculty Of Science	1	0.054
+Mcgill University School Of Computer Science	1	0.054
+Mcgill University School Of Information Studies	1	0.054
+Menoufia University Faculty Of Electronic Engineering	1	0.054
+Mid Sweden University Department Of Information Systems And Technology	1	0.054
+Mid Sweden University Faculty Of Science Technology And Media	1	0.054
+Middle East Technical University Department Of Electrical And Electronics Engineering	1	0.054
+Middle East Technical University Faculty Of Engineering	1	0.054
+Minia University Faculty Of Engineering	2	0.108
+Missouri University Of Science And Technology Department Of Electrical And Computer Engineering	2	0.108
+Monash University Faculty Of Information Technology	2	0.108
+Mondragon University Faculty Of Business Studies	1	0.054
+Multimedia University Cyberjaya Campus Faculty Of Computing And Informatics	1	0.054
+Myongji University College Of Engineering	1	0.054
+Myongji University Department Of Electronics Engineering	1	0.054
+Myongji University Natural Science Campus	1	0.054
+Najran University College Of Computer Science And Information Systems	3	0.162
+Najran University College Of Science And Arts	1	0.054
+Nanchang University School Of Resources Environmental And Chemical Engineering	1	0.054
+Nanjing Agricultural University College Of Engineering	1	0.054
+Nanjing University Department Of Computer Science And Technology	1	0.054
+Nanjing University Of Aeronautics And Astronautics College Of Automation Engineering	1	0.054
+Nanjing University Of Aeronautics And Astronautics College Of Computer Science And Technology	4	0.215
+Nanjing University Of Finance And Economics College Of Information Engineering	1	0.054
+Nanjing University Of Posts And Telecommunications School Of Computer Science	1	0.054
+Nanjing University Of Science And Technology School Of Automation	1	0.054
+Nanjing University Of Science And Technology School Of Computer Science And Engineering	3	0.162
+Nanyang Technological University College Of Engineering	20	1.077
+Nanyang Technological University Energy Research Institute	1	0.054
+Nanyang Technological University School Of Computer Science And Engineering	8	0.431
+Nanyang Technological University School Of Electrical And Electronic Engineering	12	0.646
+Nanyang Technological University School Of Mechanical And Aerospace Engineering	2	0.108
+National Cheng Kung University College Of Electrical Engineering And Computer Science	1	0.054
+National Cheng Kung University Department Of Electrical Engineering	1	0.054
+National Cheng Kung University Institute Of Computer And Communication Engineering	1	0.054
+National Chung Hsing University College Of Science	2	0.108
+National Chung Hsing University Department Of Computer Science And Engineering	2	0.108
+National Institute Of Technology Calicut Department Of Electrical Engineering	1	0.054
+National Institute Of Technology Raipur Department Of Computer Application	2	0.108
+National Institute Of Technology Raipur Department Of Electrical Engineering	3	0.162
+National Institute Of Technology Silchar Department Of Electrical Engineering	1	0.054
+National Kaohsiung University Of Science And Technology College Of Electrical Engineering And Computer Science	1	0.054
+National Kaohsiung University Of Science And Technology Department Of Electrical Engineering	1	0.054
+National Key Laboratory Of Science And Technology On Communications	1	0.054
+National Polytechnical Institute Zacatenco Unit	1	0.054
+National Sun Yat Sen University College Of Engineering	1	0.054
+National Sun Yat Sen University Department Of Electrical Engineering	1	0.054
+National Taiwan University College Of Electrical Engineering And Computer Science	1	0.054
+National Taiwan University Department Of Computer Science Information Engineering	1	0.054
+National Technical University Of Athens School Of Electrical And Computer Engineering	2	0.108
+National University Of Defense Technology College Of Computers	3	0.162
+National University Of Malaysia Department Of Electrical Electronic And Systems Engineering	1	0.054
+National University Of Malaysia Faculty Of Engineering And Built Environment	1	0.054
+National University Of Singapore College Of Design And Engineering	4	0.215
+National University Of Singapore Department Of Computer Science	3	0.162
+National University Of Singapore Department Of Electrical And Computer Engineering	3	0.162
+National University Of Singapore Department Of Mechanical Engineering	1	0.054
+National University Of Singapore School Of Computing	3	0.162
+National Yang Ming Chiao Tung University College Of Computer Science	1	0.054
+National Yang Ming Chiao Tung University Department Of Computer Science	1	0.054
+Nc State University College Of Engineering	2	0.108
+Nc State University Department Of Electrical And Computer Engineering	1	0.054
+New York University Department Of Electrical And Computer Engineering	1	0.054
+New York University Tandon School Of Engineering	1	0.054
+Newcastle University Faculty Of Science Agriculture And Engineering	3	0.162
+Newcastle University School Of Computing	2	0.108
+Newcastle University School Of Engineering	1	0.054
+Ningxia University School Of Physics And Electronic Electrical Engineering	1	0.054
+Nirma University Institute Of Technology	5	0.269
+North China Electric Power University Baoding Campus	2	0.108
+North China Electric Power University Department Of Mechanical Engineering	2	0.108
+North China Electric Power University School Of Control And Computer Engineering	9	0.485
+North China Electric Power University School Of Electrical And Electronic Engineering	7	0.377
+North China Electric Power University School Of Energy Power And Mechanical Engineerig	3	0.162
+North China Electric Power University State Key Laboratory Of Alternate Electrical Power System With Renewable Energy Sources	2	0.108
+Northeastern University At Qinhuangdao	1	0.054
+Northeastern University At Qinhuangdao School Of Computer And Communication Engineering	1	0.054
+Northeastern University At Qinhuangdao School Of Control Engineering	1	0.054
+Northeastern University College Of Computer Science And Engineering	1	0.054
+Northeastern University College Of Engineering	1	0.054
+Northeastern University College Of Information Science And Engineering	1	0.054
+Northeastern University Department Of Electrical Computer Engineering	1	0.054
+Northeastern University Software College	2	0.108
+Northeastern University State Key Laboratory Of Synthetical Automation For Process Industries	2	0.108
+Northumbria University Department Of Mathematics Physics And Electrical Engineering	2	0.108
+Northumbria University Faculty Of Engineering And Environment	2	0.108
+Northwestern Polytechnical University School Of Artificial Intelligence Optics And Electronics	1	0.054
+Northwestern Polytechnical University School Of Mechanical Engineering	1	0.054
+Norwegian University Of Science And Technology Faculty Of Engineering	1	0.054
+Nust Military College Of Signals	1	0.054
+Nust School Of Electrical Engineering Computer Science	3	0.162
+Op Jindal Global University Jindal Global Business School	1	0.054
+Oregon State University College Of Engineering	1	0.054
+Oregon State University School Of Electrical Engineering And Computer Science	1	0.054
+Osaka University Graduate School Of Information Science And Technology	1	0.054
+Padjadjaran University Faculty Of Mathematics And Natural Sciences	1	0.054
+Peking University College Of Engineering	2	0.108
+Peking University Department Of Industrial Engineering And Management	2	0.108
+Peking University Faculty Of Information And Engineering Science	1	0.054
+Peking University Institute Of Space Physics And Applied Techonologies	1	0.054
+Peking University School Of Earth And Space Sciences	1	0.054
+Peking University School Of Electronics Engineering And Computer Science	1	0.054
+Petroleum Institute	1	0.054
+Polytechnic College Of The Coast Faculty Of Mechanical And Production Sciences Engineering	1	0.054
+Polytechnic Institute Of Porto Research Group On Intelligent Engineering And Computing For Advanced Innovation And Development	2	0.108
+Polytechnic Institute Of Porto School Of Engineering	2	0.108
+Polytechnic Of Milan Department Of Electronics Information And Bioengineering	3	0.162
+Polytechnic Of Milan Department Of Energy	4	0.215
+Polytechnic Of Turin Department Of Control And Computer Engineering	3	0.162
+Polytechnic Of Turin Department Of Mechanical And Aerospace Engineering	1	0.054
+Polytechnic University Of Catalonia Department Of Electronic Engineering	2	0.108
+Polytechnic University Of Valencia Department Of Communications	2	0.108
+Polytechnic University Of Valencia School Of Telecommunication Engineering	2	0.108
+Polytechnique Montréal Department Of Electrical Engineering	1	0.054
+Prince Sattam Bin Abdulaziz University College Of Business Administration	1	0.054
+Prince Sattam Bin Abdulaziz University College Of Computer Science And Engineering	2	0.108
+Prince Sattam Bin Abdulaziz University College Of Engineering	1	0.054
+Princess Nora Bint Abdul Rahman University College Of Computer And Information Sciences	7	0.377
+Princeton University Department Of Electrical And Computer Engineering	3	0.162
+Princeton University School Of Engineering And Applied Science	3	0.162
+Purdue University College Of Agriculture	1	0.054
+Purdue University College Of Engineering	2	0.108
+Purdue University Department Of Agronomy	1	0.054
+Purdue University Department Of Computer And Information Technology	1	0.054
+Purdue University Polytechnic Institute	1	0.054
+Purdue University School Of Electrical And Computer Engineering	1	0.054
+Purdue University School Of Nuclear Engineering	1	0.054
+Putra Malaysia University Department Of Communication Technology And Network	1	0.054
+Putra Malaysia University Faculty Of Computer Science And Information Technology	1	0.054
+Qassim University College Of Computer	1	0.054
+Qassim University College Of Engineering	1	0.054
+Qatar University College Of Engineering	1	0.054
+Qualcomm Institute	1	0.054
+Queen Mary University Of London Faculty Of Science And Engineering	1	0.054
+Queen Mary University Of London School Of Mathematical Sciences	1	0.054
+Queen S University Belfast Faculty Of Engineering And Physical Sciences	2	0.108
+Queen S University Belfast School Of Electronics Electrical Engineering And Computer Science	2	0.108
+Queen S University Belfast School Of Mechanical And Aerospace Engineering	1	0.054
+Queensland University Of Technology Faculty Of Engineering	4	0.215
+Queensland University Of Technology Faculty Of Science	3	0.162
+Queensland University Of Technology School Of Architecture And Built Environment	1	0.054
+Queensland University Of Technology School Of Computer Science	2	0.108
+Queensland University Of Technology School Of Electrical Engineering And Robotics	2	0.108
+Quinnipiac University School Of Computing And Engineering	1	0.054
+Radboud University Faculty Of Science	1	0.054
+Radboud University Institute For Computing And Information Sciences	1	0.054
+Radboud University Institute For Molecules And Materials	1	0.054
+Renmin University Of China School Of Statistics	2	0.108
+Rensselaer Polytech Institute School Of Engineering	3	0.162
+Rensselaer Polytechnic Institute Department Of Electrical Computer And Systems Engineering	3	0.162
+Rmit University School Of Computing Technologies	3	0.162
+Rmit University School Of Engineering	1	0.054
+Rmit University School Of Science	1	0.054
+Rmit University Stem College	5	0.269
+Robert Gordon University School Of Computing	1	0.054
+Royal Holloway University Of London Department Of Computer Science	1	0.054
+Royal Holloway University Of London School Of Business And Management	1	0.054
+Royal Holloway University Of London School Of Engineering Physical And Mathematical Sciences	1	0.054
+Rutgers New Brunswick Department Of Electrical And Computer Engineering	1	0.054
+Rutgers New Brunswick Department Of Statistics	1	0.054
+Rutgers New Brunswick School Of Arts And Sciences	1	0.054
+Rutgers New Brunswick School Of Engineering	1	0.054
+Sakarya University Department Of Computer Engineering	1	0.054
+Sakarya University Faculty Of Computer And Information Sciences	1	0.054
+School Of Engineering And Applied Technology Department Of Mechanical Engineering	1	0.054
+Shaanxi Normal University School Of Computer Science	1	0.054
+Shandong Academy Of Sciences National Supercomupter Center In Jinan	1	0.054
+Shandong University School Of Computer Science And Technology	1	0.054
+Shanghai Jiao Tong University Department Of Automation	1	0.054
+Shanghai Jiao Tong University Department Of Electronic Engineering	2	0.108
+Shanghai Jiao Tong University School Of Electronic Information And Electrical Engineering	8	0.431
+Shanghai Jiao Tong University School Of Mechanical Engineering	2	0.108
+Shanghai Jiao Tong University State Key Laboratory Of Mechanical System And Vibration	2	0.108
+Shanghai Key Laboratory Of Navigation And Location Based Services	1	0.054
+Shanghai Key Laboratory Of Power Station Automation Technology	2	0.108
+Shanghai University School Of Mechatronic Engineering And Automation	3	0.162
+Shanmugha Arts Science Technology And Research Academy School Of Computing	7	0.377
+Sharda University School Of Engineering And Technology	1	0.054
+Sheffield Hallam University College Of Business Technology And Engineering	1	0.054
+Sheffield Hallam University Department Of Engineering And Mathematics	1	0.054
+Shenzhen University College Of Computer Science Software Engineering	1	0.054
+Shenzhen University College Of Electronics And Information Engineering	1	0.054
+Shenzhen University College Of Mechatronics And Control Engineering	1	0.054
+Shenzhen University Guangdong Key Laboratory Of Intelligent Information Processing	1	0.054
+Sichuan University College Of Electrical Engineering	1	0.054
+Sichuan University College Of Electronics And Information Engineering	2	0.108
+Silesian University Of Technology Faculty Of Mechanical Engineering	1	0.054
+Singapore Management University School Of Computing And Information Systems	2	0.108
+Singapore University Of Technology And Design Engineering Product Development	1	0.054
+Singapore University Of Technology And Design Information Systems Technology And Design	1	0.054
+Singapore University Of Technology And Design Itrust	2	0.108
+Sohag University Faculty Of Science	1	0.054
+Soochow University School Of Computer Science And Technology	1	0.054
+South China University Of Technology School Of Computer Science And Engineering	1	0.054
+South China University Of Technology School Of Electric Power	5	0.269
+South China University Of Technology School Of Mechanical And Automotive Engineering	1	0.054
+Southeast University School Of Civil Engineering	1	0.054
+Southeast University School Of Electrical Engineering	4	0.215
+Southeast University School Of Mathematics	1	0.054
+Southern Methodist University Dedman College Of Humanities And Sciences	1	0.054
+Southern Methodist University Department Of Statistical Science	1	0.054
+Southwest Jiaotong University School Of Electrical Engineering	1	0.054
+Southwest University College Of Electronic And Information Engineering	5	0.269
+Sriwijaya University School Of Computer Science	1	0.054
+Srm Institute Of Science And Technology Deemed To Be University College Of Engineering Technology	3	0.162
+Srm Institute Of Science And Technology Deemed To Be University Department Of Mechanical Engineering	1	0.054
+Srm Institute Of Science And Technology Vadapalani Campus	1	0.054
+Srm Institute Of Science And Technology Vadapalani Campus Faculty Of Engineering And Technology	1	0.054
+Stanford University Department Of Civil And Environmental Engineering	1	0.054
+Stanford University School Of Engineering	1	0.054
+State Key Laboratory Of Networking And Switching Technology	3	0.162
+State Key Laboratory Of Novel Software Technology	1	0.054
+State University Of Campinas Institute Of Computing	1	0.054
+Sultan Zainal Abidin University Faculty Of Informatics And Computing	1	0.054
+Sun Yat Sen University Guangdong Province Key Laboratory Of Information Security Technology	1	0.054
+Sun Yat Sen University National Engineering Research Center Of Digital Life	1	0.054
+Sun Yat Sen University School Of Computer Science And Engineering	2	0.108
+Superior Polytechnic School Of The Littoral Propsperina Campus	1	0.054
+Symbiosis Institute Of Media Communication Simc	1	0.054
+Symbiosis International Deemed University Symbiosis School Of Visual Arts And Photography	1	0.054
+Symbiosis International University Faculty Of Engineering	1	0.054
+Symbiosis International University Faculty Of Media And Communication	1	0.054
+Syracuse University School Of Information Studies	1	0.054
+Taiyuan University Of Technology College Of Information And Computer	2	0.108
+Taiyuan University Of Technology College Of Mechanical And Vehicle Engineering	1	0.054
+Taiyuan University Of Technology Shanxi Key Laboratory Of Fully Mechanized Coal Mining Equipment	1	0.054
+Tampere University Automation Technology And Mechanical Engineering Unit	2	0.108
+Tampere University Computing Sciences Unit	1	0.054
+Tampere University Faculty Of Engineering And Natural Sciences	2	0.108
+Tampere University Faculty Of Information Technology And Communication Sciences	1	0.054
+Technical University Of Crete School Of Electronics And Computer Engineering	2	0.108
+Technical University Of Denmark Department Of Applied Mathematics And Computer Science	1	0.054
+Technical University Of Denmark Department Of Electrical And Photonics Engineering	2	0.108
+Technical University Of Denmark Department Of Mechanical Engineering	1	0.054
+Technical University Of Denmark Department Of Wind Energy	1	0.054
+Technical University Of Munich Department Of Electrical And Computer Engineering	1	0.054
+Teesside University School Of Computing Engineering And Digital Technologies	1	0.054
+Tel Aviv University Department Of Physical Electronics	1	0.054
+Tel Aviv University Iby And Aladar Fleischman Faculty Of Engineering	2	0.108
+Tel Aviv University School Of Electrical Engineering	2	0.108
+Temple University College Of Engineering	1	0.054
+Texas A M University Artie Mcferrin Department Of Chemical Engineering	1	0.054
+Texas A M University College Of Engineering	11	0.592
+Texas A M University Department Of Electrical And Computer Engineering	10	0.539
+Texas A M University Kingsville Department Of Electrical Engineering And Computer Science	4	0.215
+Texas A M University Kingsville Frank H Dotterweich College Of Engineering	4	0.215
+Texas A M University Mary Kay O Connor Process Safety Center	1	0.054
+The Affiliated Hospital Of Southwest Medical University	1	0.054
+The British University In Egypt Faculty Of Engineering	1	0.054
+The Chinese University Of Hong Kong Department Of Information Engineering	2	0.108
+The Chinese University Of Hong Kong Faculty Of Engineering	2	0.108
+The Hashemite University Faculty Of Engineering	1	0.054
+The Hong Kong Polytechnic University Department Of Electronic And Information Engineering	1	0.054
+The Hong Kong Polytechnic University Faculty Of Engineering	1	0.054
+The Pennsylvania State University College Of Engineering	1	0.054
+The Pennsylvania State University College Of Information Sciences And Technology	1	0.054
+The Pennsylvania State University The Harold And Inge Marcus Department Of Industrial And Manufacturing Engineering	1	0.054
+The University Of Adelaide Faculty Of Sciences	1	0.054
+The University Of Adelaide School Of Computer Science	1	0.054
+The University Of Arizona Department Of Management Information Systems	1	0.054
+The University Of Arizona Eller College Of Management	1	0.054
+The University Of Auckland Faculty Of Science	1	0.054
+The University Of Auckland School Of Computer Science	1	0.054
+The University Of British Columbia Department Of Electrical And Computer Engineering	2	0.108
+The University Of British Columbia Faculty Of Applied Science	2	0.108
+The University Of Edinburgh College Of Science And Engineering	2	0.108
+The University Of Edinburgh School Of Engineering	2	0.108
+The University Of Hong Kong Department Of Electrical And Electronic Engineering	2	0.108
+The University Of Hong Kong Faculty Of Engineering	2	0.108
+The University Of Jordan School Of Engineering	1	0.054
+The University Of Manchester Department Of Earth And Environmental Sciences	1	0.054
+The University Of Manchester Faculty Of Science And Engineering	4	0.215
+The University Of Manchester School Of Electrical And Electronic Engineering	3	0.162
+The University Of Melbourne Department Of Electrical And Electronic Engineering	1	0.054
+The University Of Melbourne Department Of Mechanical Engineering	1	0.054
+The University Of Melbourne Faculty Of Engineering And Information Technology	2	0.108
+The University Of Newcastle College Of Engineering Science And Environment	2	0.108
+The University Of Newcastle School Of Information And Physical Sciences	1	0.054
+The University Of Queensland Faculty Of Engineering Architecture And Information Technology	6	0.323
+The University Of Queensland School Of Information Technology And Electrical Engineering	6	0.323
+The University Of Sheffield Department Of Automatic Control And Systems Engineering	1	0.054
+The University Of Sheffield Department Of Computer Science	2	0.108
+The University Of Sheffield Faculty Of Engineering	3	0.162
+The University Of Sydney Centre For Distributed And High Performance Computing	1	0.054
+The University Of Sydney Faculty Of Engineering And Information Technologies	6	0.323
+The University Of Sydney School Of Computer Science	3	0.162
+The University Of Sydney School Of Electrical And Information Engineering	3	0.162
+The University Of Tennessee Knoxville Department Of Electrical Engineering And Computer Science	5	0.269
+The University Of Tennessee Knoxville Tickle College Of Engineering	5	0.269
+The University Of Texas At Austin Cockrell School Of Engineering	1	0.054
+The University Of Texas At Austin College Of Natural Sciences	1	0.054
+The University Of Texas At Austin Department Of Civil Architectural And Environmental Engineering	1	0.054
+The University Of Texas At Austin Department Of Computer Science	1	0.054
+The University Of Texas At Dallas Department Of Mathematical Sciences	1	0.054
+The University Of Texas At Dallas Department Of Mechanical Engineering	2	0.108
+The University Of Texas At Dallas Erik Jonsson School Of Engineering And Computer Science	2	0.108
+The University Of Texas At Dallas School Of Natural Sciences And Mathematics	1	0.054
+The University Of Texas At San Antonio College Of Engineering	4	0.215
+The University Of Texas At San Antonio Department Of Electrical And Computer Engineering	4	0.215
+The University Of Tokyo Institute Of Industrial Science	1	0.054
+The University Of Utah Department Of Chemical Engineering	2	0.108
+The University Of Utah Department Of Electrical And Computer Engineering	1	0.054
+The University Of Utah John And Marcia Price College Of Engineering	3	0.162
+The University Of Western Australia Department Of Computer Science And Software Engineering	1	0.054
+The University Of Western Australia Department Of Mathematics And Statistics	1	0.054
+The University Of Western Australia Faculty Of Engineering And Mathematical Sciences	1	0.054
+The University Of Western Australia School Of Physics Mathematics And Computing	1	0.054
+Tianjin University College Of Intelligence And Computing	1	0.054
+Tianjin University Key Laboratory Of The Ministry Of Education On Smart Power Grids	5	0.269
+Tianjin University School Of Electrical And Information Engineering	9	0.485
+Tianjin University School Of Microelectronics	1	0.054
+Tianjin University School Of Precision Instruments And Optoelectronics Engineering	1	0.054
+Tianjin University State Key Laboratory Of Precision Measuring Technology And Instruments	1	0.054
+Tohoku University Center For Innovative Integrated Electronic Systems	1	0.054
+Tohoku University Research Institute Of Electrical Communication	1	0.054
+Tohoku University School Of Engineering	1	0.054
+Tokyo University Of Agriculture And Technology Institute Of Global Innovation Research	1	0.054
+Tongji University College Of Electronic And Information	1	0.054
+Tongji University Department Of Control Science And Engineering	1	0.054
+Tongji University School Of Mechanical Engineering	1	0.054
+Tsinghua University Department Of Electrical Engineering	7	0.377
+Tsinghua University Department Of Energy And Power Engeering	3	0.162
+Tsinghua University Department Of Mechanical Engineering	1	0.054
+Tsinghua University Department Of Precision Instrument	1	0.054
+Tsinghua University Key Laboratory For Thermal Science And Power Engineering	3	0.162
+Tsinghua University School Of Mechanical Engineering	5	0.269
+Tu Kaiserslautern Department Of Computer Sciences	1	0.054
+Tu Wien Faculty Of Electrical Engineering And Information Technology	1	0.054
+Tu Wien Institute Of Computer Technology	1	0.054
+Uae University College Of Engineering	1	0.054
+Uae University College Of Information Technology	3	0.162
+Ucla Division Of Physical Sciences	1	0.054
+Uio Department Of Informatics	2	0.108
+Ulm University Faculty Of Engineering Computer Science And Psychology	1	0.054
+Ulm University Institute Of Neural Information Processing	1	0.054
+Ulster University Faculty Of Computing Engineering And The Built Environment	1	0.054
+Ulster University School Of Computing	1	0.054
+Universidade De Lisboa Instituto De Investigacao E Inovacao Em Engenharia Civil Para A Sustentabilidade	1	0.054
+Universitat Politecnica De Catalunya Department Of Computer Science	1	0.054
+Universiti Kebangsaan Malaysia Faculty Of Information Science And Technology	3	0.162
+Universiti Malaysia Sarawak Faculty Of Engineering	1	0.054
+Universiti Sains Malaysia Engineering Campus Seri Ampangan	1	0.054
+Universiti Sains Malaysia School Of Electrical And Electronic Engineering	1	0.054
+University Carlos Iii Of Madrid Department Of Signal Theory And Communications	2	0.108
+University College Dublin College Of Science	1	0.054
+University College Dublin School Of Computer Science And Informatics	1	0.054
+University College London Department Of Computer Science	1	0.054
+University College London Faculty Of Engineering	1	0.054
+University Institute Of Engineering And Technology	1	0.054
+University M Hamed Bougara Of Boumerdes Faculty Of Engineering	1	0.054
+University Of Agder Department Of Engineering Sciences	1	0.054
+University Of Agder Faculty Of Engineering And Science	1	0.054
+University Of Aizu School Of Computer Science And Engineering Graduate School Of Computer Science And Engineering	1	0.054
+University Of Alberta Department Of Electrical And Computer Engineering	2	0.108
+University Of Alberta Faculty Of Engineering	2	0.108
+University Of Alcala Superior Polytechnic School	1	0.054
+University Of Aveiro Department Of Electronics Telecommunications And Informatics	1	0.054
+University Of Baghdad College Of Engineering	2	0.108
+University Of Bath Department Of Architecture And Civil Engineering	1	0.054
+University Of Bath Faculty Of Engineering And Design	1	0.054
+University Of Beira Interior Department Of Electromechanical Engineering	1	0.054
+University Of Beira Interior Faculty Of Engineering	1	0.054
+University Of Belgrade Faculty Of Transport And Traffic Engineering	1	0.054
+University Of Belgrade School Of Electrical Engineering	1	0.054
+University Of Bremen Faculty Of Production Engineering	1	0.054
+University Of Bucharest Faculty Of Mathematics And Computer Science	1	0.054
+University Of Burgos Polytechnic High School	1	0.054
+University Of Cagliari Department Of Electrical And Electronic Engineering	1	0.054
+University Of Cagliari Faculty Of Engineering And Architecture	1	0.054
+University Of Calgary Schulich School Of Engineering	3	0.162
+University Of California Irvine Department Of Computer Science	1	0.054
+University Of California Irvine Donald Bren School Of Information And Computer Sciences	1	0.054
+University Of California Los Angeles College Of Letters And Science	1	0.054
+University Of California Los Angeles Computer Science Department	1	0.054
+University Of California Los Angeles Department Of Atmospheric And Oceanic Sciences	1	0.054
+University Of California Los Angeles Department Of Electrical Engineering	1	0.054
+University Of California Los Angeles Henry Samueli School Of Engineering	2	0.108
+University Of California San Diego Department Of Bioengineering	1	0.054
+University Of California San Diego Department Of Electrical And Computer Engineering	2	0.108
+University Of California San Diego Jacobs School Of Engineering	2	0.108
+University Of Cambridge Department Of Engineering	2	0.108
+University Of Cambridge Institute For Manufacturing	1	0.054
+University Of Cambridge School Of Technology	2	0.108
+University Of Campania Luigi Vanvitelli Department Of Engineering	1	0.054
+University Of Carthage Faculty Of Sciences Of Bizerte	1	0.054
+University Of Central Florida College Of Engineering And Computer Science	3	0.162
+University Of Central Florida College Of Sciences	1	0.054
+University Of Central Florida Department Of Computer Science	1	0.054
+University Of Central Florida Department Of Electrical And Computer Engineering	2	0.108
+University Of Central Florida Department Of Mechanical And Aerospace Engineering	1	0.054
+University Of Central Florida Department Of Statistics Data Science	1	0.054
+University Of Coimbra Centre For Informatics And Systems	2	0.108
+University Of Coimbra Department Of Electrotechnical And Computer Engineering	2	0.108
+University Of Coimbra Department Of Informatics Engineering	4	0.215
+University Of Coimbra Faculty Of Sciences And Technology	6	0.323
+University Of Coimbra Institute Of Systems And Robotics	2	0.108
+University Of Cologne Department Of Physics	1	0.054
+University Of Cologne Department Of Theoretical Physics	1	0.054
+University Of Cologne Faculty Of Mathematics And Natural Sciences	1	0.054
+University Of Connecticut Department Of Civil Environmental Engineering	1	0.054
+University Of Connecticut School Of Engineering	1	0.054
+University Of Cordoba Department Of Agronomy	1	0.054
+University Of Cordoba Higher Technical School Of Agronomic And Forestry Engineering	1	0.054
+University Of Cyprus Department Of Electrical And Computer Engineering	2	0.108
+University Of Cyprus Faculty Of Engineering	2	0.108
+University Of Electronic Science And Technology Of China School Of Automation Engineering	1	0.054
+University Of Electronic Science And Technology Of China School Of Life Science And Technology	1	0.054
+University Of Electronic Science And Technology Of China School Of Mechanical And Electrical Engineering	1	0.054
+University Of Essex Faculty Of Science And Health	3	0.162
+University Of Essex School Of Computer Science And Electronic Engineering	3	0.162
+University Of Exeter Environment And Sustainability Institute	1	0.054
+University Of Geneva Geneva School Of Economics And Management	1	0.054
+University Of Genoa Department Of Naval Electric Electronic And Telecommunication Engineering	1	0.054
+University Of Genoa Polytechnic School	1	0.054
+University Of Georgia Center For Cyber Physical Systems	4	0.215
+University Of Ghana College Of Basic And Applied Sciences	1	0.054
+University Of Ghana School Of Engineering Science	1	0.054
+University Of Glasgow College Of Science And Engineering	5	0.269
+University Of Glasgow James Watt School Of Engineering	4	0.215
+University Of Glasgow School Of Computing Science	1	0.054
+University Of Gothenburg Department Of Earth Sciences	1	0.054
+University Of Gothenburg Faculty Of Science	1	0.054
+University Of Greenwich Faculty Of Engineering And Science	1	0.054
+University Of Greenwich Faculty Of Liberal Arts And Sciences	1	0.054
+University Of Greenwich School Of Computing And Mathematical Sciences	1	0.054
+University Of Guadalajara University Center Of Exact Sciences And Engineering	1	0.054
+University Of Guelph College Of Physical And Engineering Science	4	0.215
+University Of Guelph School Of Computer Science	3	0.162
+University Of Gävle Faculty Of Education And Business Studies	1	0.054
+University Of Haifa Department Of Natural Resources And Environmental Management	1	0.054
+University Of Haifa School Of Business Administration	1	0.054
+University Of Haifa The Herta And Paul Amir Faculty Of Social Sciences	1	0.054
+University Of Hail College Of Computer Science And Engineering	2	0.108
+University Of Hail College Of Engineering	1	0.054
+University Of Hawai I At Manoa College Of Engineering	2	0.108
+University Of Hawai I At Manoa Department Of Mechanical Engineering	2	0.108
+University Of Hertfordshire School Of Physics Engineering And Computer Science	2	0.108
+University Of Houston College Of Natural Sciences And Mathematics	1	0.054
+University Of Houston Cullen College Of Engineering	1	0.054
+University Of Houston Department Of Computer Science	1	0.054
+University Of Houston Department Of Electrical And Computer Engineering	1	0.054
+University Of Hradec Kralove Faculty Of Informatics And Management	1	0.054
+University Of Hradec Kralove Faculty Of Science	1	0.054
+University Of Huddersfield Department Of Computer Science	1	0.054
+University Of Huddersfield School Of Computing And Engineering	1	0.054
+University Of Hull Department Of Computer Science And Technology	1	0.054
+University Of Hull Faculty Of Science And Engineering	1	0.054
+University Of Idaho College Of Engineering	3	0.162
+University Of Idaho Department Of Computer Science	3	0.162
+University Of Johannesburg Faculty Of Engineering And Built Environment	3	0.162
+University Of Johannesburg School Of Electrical Engineering	2	0.108
+University Of Kentucky College Of Engineering	1	0.054
+University Of Kentucky Department Of Computer Science	1	0.054
+University Of Kuala Lumpur British Malaysian Institute	1	0.054
+University Of Kwazulu Natal College Of Agriculture Engineering And Science	1	0.054
+University Of Kwazulu Natal School Of Engineering	1	0.054
+University Of Lagos Faculty Of Engineering	1	0.054
+University Of Leeds Faculty Of Engineering And Physical Sciences	2	0.108
+University Of Leeds School Of Electronic And Electrical Engineering	2	0.108
+University Of Lincoln College Of Science	1	0.054
+University Of Lincoln School Of Engineering	1	0.054
+University Of Lisbon Department Of Civil Engineering Architecture And Georesources	1	0.054
+University Of Lisbon Institute For Systems And Robotics	1	0.054
+University Of Ljubljana Faculty Of Electrical Engineering	1	0.054
+University Of Lugano Faculty Of Informatics	1	0.054
+University Of Macau Department Of Electrical And Computer Engineering	1	0.054
+University Of Macau Faculty Of Science And Technology	1	0.054
+University Of Macedonia Department Of Applied Informatics	1	0.054
+University Of Macedonia School Of Information Sciences	1	0.054
+University Of Maine At Presque Isle College Of Arts And Sciences	1	0.054
+University Of Malaya Faculty Of Business And Economics	1	0.054
+University Of Messina Department Of Economics	1	0.054
+University Of Miami College Of Engineering	1	0.054
+University Of Miami Department Of Civil And Architectural Engineering	1	0.054
+University Of Michigan College Of Engineering	1	0.054
+University Of Michigan Department Of Electrical Engineering And Computer Science	1	0.054
+University Of Minnesota Twin Cities College Of Science And Engineering	3	0.162
+University Of Minnesota Twin Cities Department Of Electrical And Computer Engineering	3	0.162
+University Of Minnesota Twin Cities Digital Technology Center	2	0.108
+University Of Molise Department Of Bioscience And Territory	1	0.054
+University Of Molise Department Of Medicine And Health Sciences Vincenzo Tiberio	1	0.054
+University Of Moncton Faculty Of Engineering	2	0.108
+University Of Montenegro Faculty Of Electrical Engineering	1	0.054
+University Of Naples Federico Ii Department Of Mathematics And Applications Renato Caccioppoli	1	0.054
+University Of Naples Federico Ii Polytechnic And Applied Sciences School	1	0.054
+University Of Nevada Reno College Of Engineering	2	0.108
+University Of Nevada Reno Department Of Electrical And Biomedical Engineering	2	0.108
+University Of New Brunswick Fredericton	2	0.108
+University Of New Brunswick Fredericton Faculty Of Computer Science	2	0.108
+University Of New South Wales Adfa School Of Engineering And Information Technology	3	0.162
+University Of New South Wales Canberra At Adfa	4	0.215
+University Of New South Wales Canberra At The Adfa Cyber	1	0.054
+University Of New South Wales Faculty Of Engineering	11	0.592
+University Of New South Wales School Of Computer Science And Engineering	4	0.215
+University Of New South Wales School Of Electrical Engineering And Telecommunications	6	0.323
+University Of New South Wales School Of Photovoltaic And Renewable Energy Engineering	1	0.054
+University Of North Texas College Of Information	1	0.054
+University Of Novi Sad Faculty Of Technical Sciences	2	0.108
+University Of Oslo Faculty Of Mathematics And Natural Sciences	2	0.108
+University Of Ottawa Faculty Of Engineering	4	0.215
+University Of Ottawa School Of Electrical Engineering And Computer Science	4	0.215
+University Of Ottawa Telfer School Of Management	2	0.108
+University Of Oxford Department Of Engineering Science	2	0.108
+University Of Oxford Mathematical Physical And Life Sciences Division	2	0.108
+University Of Padua Department Of Information Engineering	1	0.054
+University Of Padua School Of Engineering	1	0.054
+University Of Padua School Of Sciences	1	0.054
+University Of Padua Tullio Levi Civita Department Of Mathematics	1	0.054
+University Of Patras Department Of Electrical And Computer Engineering	3	0.162
+University Of Patras School Of Engineering	3	0.162
+University Of Perugia Department Of Engineering	2	0.108
+University Of Piraeus Department Of Economics	1	0.054
+University Of Piraeus School Of Economics Business And International Studies	1	0.054
+University Of Pittsburgh Swanson School Of Engineering	1	0.054
+University Of Porto Faculty Of Engineering	1	0.054
+University Of Quebec At Outaouais Department Of Computer Science And Engineering	1	0.054
+University Of Rochester Department Of Computer Science	1	0.054
+University Of Rochester Hajim School Of Engineering And Applied Sciences	1	0.054
+University Of Rochester Medical Center	1	0.054
+University Of Rochester School Of Medicine And Dentistry	1	0.054
+University Of Rome La Sapienza Department Of Computer Science	2	0.108
+University Of Rome La Sapienza Department Of Information Engineering Electronics And Telecommunications	1	0.054
+University Of Rome La Sapienza Faculty Of Information Engineering Computer Science And Statistics	3	0.162
+University Of Rome Tor Vergata Department Of Enterprise Engineering Mario Lucentini	1	0.054
+University Of Rome Tor Vergata Department Of Management And Law	1	0.054
+University Of Rome Tor Vergata Engineering Macro Area	1	0.054
+University Of Rome Tor Vergata Faculty Of Economics	1	0.054
+University Of Salerno Department Of Business Sciences Management Innovation Systems	1	0.054
+University Of Salerno Department Of Industrial Engineering	1	0.054
+University Of Sannio Department Of Engineering	2	0.108
+University Of Saskatchewan College Of Engineering	2	0.108
+University Of Saskatchewan Department Of Electrical And Computer Engineering	2	0.108
+University Of Science And Technology Beijing School Of Computer And Communication Engineering	3	0.162
+University Of Science And Technology Of China Department Of Automation	2	0.108
+University Of Science And Technology Of China Institute Of Advanced Technology	1	0.054
+University Of Science And Technology Of China School Of Computer Science And Technology	2	0.108
+University Of Science And Technology Of China School Of Information Science And Technology	2	0.108
+University Of Shanghai For Science And Technology School Of Energy And Power Engineering	1	0.054
+University Of Sharjah Research Institute Of Sciences And Engineering	1	0.054
+University Of South Florida College Of Engineering	1	0.054
+University Of South Florida Department Of Computer Science And Engineering	1	0.054
+University Of South Wales Faculty Of Computing Engineering And Science	1	0.054
+University Of Southern California Ming Hsieh Department Of Electrical Engineering	4	0.215
+University Of Southern California Viterbi School Of Engineering	4	0.215
+University Of Southern Denmark Faculty Of Engineering	1	0.054
+University Of Southern Denmark Maersk Mc Kinney Moller Institute	1	0.054
+University Of Southern Queensland Faculty Of Business Education Law And Arts	1	0.054
+University Of Strathclyde Department Of Computer And Information Sciences	1	0.054
+University Of Strathclyde Department Of Electronic And Electrical Engineering	1	0.054
+University Of Strathclyde Faculty Of Engineering	2	0.108
+University Of Strathclyde Faculty Of Science	1	0.054
+University Of Strathclyde Naval Architecture Ocean And Marine Engineering	1	0.054
+University Of Stuttgart Faculty 6 Aerospace Engineering And Geodesy	1	0.054
+University Of Stuttgart Institute Of Aircraft Design	1	0.054
+University Of Surrey Department Of Computer Science	1	0.054
+University Of Surrey Faculty Of Engineering And Physical Sciences	1	0.054
+University Of Tabouk Faculty Of Engineering	5	0.269
+University Of Tabriz Faculty Of Electrical And Computer Engineering	13	0.700
+University Of Tartu Faculty Of Science And Technology	1	0.054
+University Of Tartu Institute Of Computer Science	1	0.054
+University Of Tartu Institute Of Mathematics And Statistics	1	0.054
+University Of Technology Malaysia Faculty Of Chemical And Energy Engineering	1	0.054
+University Of Technology Malaysia Faculty Of Engineering	3	0.162
+University Of Technology Malaysia Razak Faculty Of Technology And Informatics	1	0.054
+University Of Technology Malaysia School Of Computing	2	0.108
+University Of Technology Sydney Faculty Of Engineering And Information Technology	12	0.646
+University Of Technology Sydney School Of Computer Science	6	0.323
+University Of Technology Sydney School Of Electrical And Data Engineering	6	0.323
+University Of Tehran College Of Engineering	4	0.215
+University Of Tehran Faculty Of New Sciences And Technologies	1	0.054
+University Of Tehran School Of Electrical Computer Engineering	3	0.162
+University Of The Aegean Department Of Information And Communication Systems Engineering	1	0.054
+University Of The Aegean School Of Engineering	1	0.054
+University Of The Andes Faculty Of Engineering	2	0.108
+University Of The Basque Country Superior Technical School Of Engineering Of Bilbao	3	0.162
+University Of The Peloponnese Department Of Informatics And Telecommunications	1	0.054
+University Of The Peloponnese School Of Economy Management And Informatics	1	0.054
+University Of The Philippines Open University Faculty Of Information And Communication Studies	1	0.054
+University Of The Sunshine Coast School Of Science Technology And Engineering	1	0.054
+University Of The Witwatersrand Johannesburg Faculty Of Engineering And The Built Environment	2	0.108
+University Of The Witwatersrand Johannesburg School Of Electrical And Information Engineering	2	0.108
+University Of Toronto Department Of Civil Mineral Engineering	1	0.054
+University Of Toronto Department Of Mechanical And Industrial Engineering	1	0.054
+University Of Toronto Faculty Of Applied Science Engineering	4	0.215
+University Of Toronto The Edward S Rogers Sr Department Of Electrical Computer Engineering	3	0.162
+University Of Tunis El Manar Department Of Physics	1	0.054
+University Of Udine Department Of Mathematics Informatics And Physics	2	0.108
+University Of Vaasa Faculty Of Technology	4	0.215
+University Of Vermont College Of Engineering And Mathematical Sciences	1	0.054
+University Of Vermont Department Of Computer Science	1	0.054
+University Of Verona Department Of Computer Science	1	0.054
+University Of Verona School Of Sciences And Engineering	1	0.054
+University Of Victoria Department Of Electrical And Computer Engineering	2	0.108
+University Of Victoria Faculty Of Engineering Computer Science	2	0.108
+University Of Wales Aberystwyth Faculty Of Business And Physical Sciences	1	0.054
+University Of Warwick Department Of Computer Science	1	0.054
+University Of Warwick Faculty Of Science Engineering And Medicine	6	0.323
+University Of Warwick School Of Engineering	4	0.215
+University Of Washington College Of Engineering	2	0.108
+University Of Washington Department Of Electrical Computer Engineering	2	0.108
+University Of Waterloo Department Of Electrical And Computer Engineering	3	0.162
+University Of Waterloo Faculty Of Engineering	3	0.162
+University Of West Attica Department Of Electrical And Electronic Engineering	2	0.108
+University Of West Attica Faculty Of Engineering	2	0.108
+University Of West Florida Department Of Electrical And Computer Engineering	1	0.054
+University Of West Florida Hal Marcus College Of Science And Engineering	1	0.054
+University Of Windsor Department Of Electrical And Computer Engineering	7	0.377
+University Of Windsor Faculty Of Engineering	7	0.377
+University Of Windsor Faculty Of Science	1	0.054
+University Of Windsor School Of Computer Science	1	0.054
+University Of Wolverhampton Faculty Of Science And Engineering	1	0.054
+University Of Wolverhampton School Of Engineering Computing And Mathematical Sciences	1	0.054
+University Of Zaragoza School Of Engineering And Architecture	1	0.054
+Uttaranchal Institute Of Technology	1	0.054
+Vel Tech Dr Rr And Dr Sr Technical University School Of Computing And Information Technology	2	0.108
+Vel Tech Rangarajan Dr Sagunthala R D Institute Of Science And Technology Department Of Computer Science And Engineering	2	0.108
+Victoria University College Of Engineering And Science	2	0.108
+Victoria University Of Wellington Faculty Of Engineering	1	0.054
+Victoria University Of Wellington School Of Engineering And Computer Science	1	0.054
+Virginia Center For Housing Research	1	0.054
+Virginia Polytechnic Institute And State University Bradley Department Of Electrical And Computer Engineering	3	0.162
+Virginia Polytechnic Institute And State University College Of Architectural And Urban Studies	1	0.054
+Virginia Polytechnic Institute And State University College Of Engineering	3	0.162
+Virginia Polytechnic Institute And State University Department Of Biological Systems Engineering	1	0.054
+Vit University School Of Computer Science And Engineering	5	0.269
+Vit University School Of Electronics Engineering	3	0.162
+Vit University School Of Information Technology And Engineering	7	0.377
+Vit University School Of Mechanical Engineering	1	0.054
+Warsaw University Of Life Sciences Faculty Of Applied Informatics And Mathematics	2	0.108
+Warsaw University Of Life Sciences Institute Of Information Technology	2	0.108
+Warsaw University Of Technology Faculty Of Electronics And Information Technology	1	0.054
+Waseda University Faculty Of Human Sciences	1	0.054
+Washington State University School Of Electrical Engineering Computer Science	6	0.323
+Washington State University Voiland College Of Engineering And Architecture	6	0.323
+Washington University In St Louis Department Of Computer Science And Engineering	3	0.162
+Washington University In St Louis Mckelvey School Of Engineering	3	0.162
+Wenzhou University College Of Electrical And Electronic Engineering	1	0.054
+Wenzhou University College Of Mechanical And Electrical Engineering	1	0.054
+West Virginia University College Of Engineering And Mineral Resources	1	0.054
+West Virginia University Department Of Industrial And Management Systems Engineering	1	0.054
+Western University Department Of Computer Science	1	0.054
+Western University Faculty Of Science	1	0.054
+Wmg	3	0.162
+Wuhan University Faculty Of Engineering	5	0.269
+Wuhan University Of Technology School Of Transportation	1	0.054
+Wuhan University School Of Electrical Engineering And Automation	2	0.108
+Wuhan University School Of Power And Mechanical Engineering	3	0.162
+Wuhan University State Key Laboratory Of Information Engineering In Surveying Mapping And Remote Sensing	2	0.108
+Xi An Jiaotong University School Of Electrical Engineering	9	0.485
+Xi An Jiaotong University School Of Electronic And Information Engineering	3	0.162
+Xi An Jiaotong University School Of Mechanical Engineering	1	0.054
+Xi An Jiaotong University State Key Laboratory For Manufacturing System Engineering	1	0.054
+Xi An Jiaotong University State Key Laboratory Of Electrical Insulation And Power Equipment	5	0.269
+Xi An Polytechnic University School Of Electronics And Information	2	0.108
+Xidian University School Of Computer Science And Technology	5	0.269
+Xidian University School Of Mechano Electronic Engineering	1	0.054
+Xidian University State Key Laboratory Of Integrated Services Network	1	0.054
+Yanshan University School Of Electrical Engineering	2	0.108
+Yonsei University College Of Engineering	1	0.054
+Yonsei University School Of Electrical And Electronic Engineering	1	0.054
+York University Lassonde School Of Engineering	1	0.054
+Zagazig University Faculty Of Engineering	1	0.054
+Zhejiang University College Of Computer Science And Technology	1	0.054
+Zhejiang University College Of Electrical Engineering	7	0.377
+Zhejiang University College Of Energy Engineering	1	0.054
+Zhejiang University College Of Information Science And Electronic Engineering	1	0.054
+Zhejiang University Department Of Control Science And Engineering	5	0.269
+Zhejiang University Faculty Of Engineering	8	0.431
+Zhejiang University Faculty Of Information Technology	6	0.323
+Zhejiang University Faculty Of Social Sciences	1	0.054
+Zhejiang University Institute Of Cyber Systems And Control	1	0.054
+Zhejiang University Of Technology College Of Computer Science And Technology	1	0.054
+Zhejiang University Of Technology College Of Information Engineering	1	0.054
+Zhejiang University Of Technology College Of Mechanical Engineering	1	0.054
+Zhejiang University Of Technology Institute Of Cyberspace Security	1	0.054
+Zhejiang University Of Technology School Of Design And Architecture	1	0.054
+Zhejiang University Of Technology Zhijiang College	1	0.054
+Zhejiang University School Of Public Affairs	1	0.054
+Zhejiang University State Key Laboratory Of Industrial Control Technology	2	0.108
+Zhengzhou University School Of Civil Engineering	1	0.054
+971 record(s) (52.289%) do not contain data in the field being analyzed

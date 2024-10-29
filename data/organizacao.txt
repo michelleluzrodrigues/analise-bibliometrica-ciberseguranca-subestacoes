@@ -1,0 +1,2294 @@
+﻿id	organization	documents	citations	total link strength
+1	0 infin ltd	1	78	61
+2	0infin ltd	1	9	20
+3	24sea	1	0	0
+4	626 cochrans mill rd	1	0	0
+5	8 guangrong rd	1	1	0
+6	900 north glebe rd	1	11	5
+7	aalborg univ	12	457	120
+8	aalen univ	1	0	12
+9	aalto univ	3	1	0
+10	aarhus univ	3	51	2
+11	aarupadai veedu inst technol	1	34	3
+12	abasyn univ	1	11	22
+13	abb corp res sweden	1	18	10
+14	abb power grids spain sau	1	6	9
+15	abbottabad univ sci & technol	1	10	0
+16	abdelmalek essaadi univ	2	45	4
+17	abdul wali khan univ mardan	1	13	7
+18	abdullah gul univ	2	48	33
+19	aberystwyth univ	1	1	2
+20	abou bakr belkaid univ tlemcen	1	51	35
+21	abou bekr belkaid univ	2	43	53
+22	abu dhabi polytech	1	16	24
+23	acad cryptog tech	1	0	0
+24	academia	1	0	1
+25	adams state univ	1	3	0
+26	adani inst infrastruct engn	1	110	13
+27	addis ababa sci & technol univ	1	5	0
+28	addis ababa univ	1	5	0
+29	adichunchanagiri univ	1	0	0
+30	aditya coll engn	1	1	0
+31	aditya engn coll	1	0	0
+32	adiyaman univ	2	7	31
+33	admiral makarov state univ maritime & inland ship	1	2	0
+34	adnet doo	1	6	0
+35	adsc	1	34	4
+36	adv digital sci ctr	2	4	1
+37	adv micro devices amd	1	3	0
+38	adv technol inst	1	1	0
+39	adıyaman univ	1	4	22
+40	af engn univ	1	13	38
+41	afyon kocatepe univ	1	1	0
+42	agcy sci technol & res	1	2	0
+43	agfw projektgesellschaft rationalisierung	1	14	2
+44	agh univ krakow	2	3	5
+45	agh univ sci & technol	3	12	32
+46	agni coll technol	1	24	18
+47	ahmed bin mohammed mil coll abmmc	1	3	43
+48	ahsanullah univ sci & technol	1	22	0
+49	ain shams univ	8	21	169
+50	air force engn univ	1	13	38
+51	air force med univ	1	40	0
+52	air force res lab	3	30	17
+53	air force res lab afrl	1	0	0
+54	air univ	6	92	53
+55	air univ islamabad	1	41	44
+56	aist frea	1	11	6
+57	ait austrian inst technol	1	8	2
+58	aitia	1	4	6
+59	ajeenkya dy patil univ	1	8	0
+60	ajou univ	2	40	32
+61	al ain univ	4	39	105
+62	al akhawayn univ	1	58	5
+63	al al bayt univ	2	11	28
+64	al azhar univ	7	39	259
+65	al baha univ	2	8	14
+66	al farabi kazakh natl univ	1	0	2
+67	al farahidi univ	1	0	0
+68	al kitab univ	1	0	0
+69	al majmaah univ	1	3	12
+70	al mustaqbal univ coll	1	2	0
+71	al muthanna univ	2	13	4
+72	al nahrain univ baghdad	1	8	2
+73	alagappa chettiar govt coll engn & technol	1	5	0
+74	alakhawayn univ	1	1	5
+75	alakhawayn univ ifrane	2	49	0
+76	alayan univ	1	0	0
+77	albaha univ	1	3	20
+78	alberta machine intelligence inst amii	1	8	0
+79	alee bibliotheque univ laval	1	8	0
+80	aletheia univ	1	0	0
+81	alfaisal univ	1	3	0
+82	alibaba cloud	1	8	13
+83	aligarh muslim univ	1	1	0
+84	alliander nv	1	1	0
+85	alma sistemi srl	1	1	0
+86	alpen adria univ klagenfurt	1	0	0
+87	altinbas univ	1	0	0
+88	amer univ	1	34	4
+89	amer univ beirut	2	13	12
+90	amer univ middle east	1	1	9
+91	amer univ nigeria	1	3	4
+92	amer univ sharjah	3	5	24
+93	amirkabir univ	1	7	2
+94	amirkabir univ technol	2	45	26
+95	amity univ	1	0	4
+96	amity univ maharashtra	1	6	3
+97	amity univ uttar pradesh	2	21	0
+98	amprion gmbh	1	2	0
+99	amrita coll engn & technol	1	0	1
+100	amrita univ	1	41	29
+101	amrita vishwa vidyapeetha	1	80	19
+102	amrita vishwa vidyapeetham	4	82	66
+103	amtech elect i ltd	1	0	0
+104	anderson univ	1	1	17
+105	anhui agr univ	1	3	0
+106	anhui univ	1	10	3
+107	ankara univ	1	3	0
+108	anna univ	7	25	9
+109	apa grp	1	1	2
+110	apj abdul kalam technol univ	2	3	5
+111	appl commun sci	1	1	0
+112	appl sci private univ	3	45	9
+113	arab acad sci technol & maritime transport	1	5	3
+114	argonne natl lab	4	289	195
+115	aristotle univ thessaloniki	1	1	1
+116	arizona state univ	5	98	37
+117	arkansas state univ	4	128	72
+118	army engn univ pla	1	1	0
+119	artificial intelligence engineer intel	1	2	1
+120	ashesi univ	1	0	0
+121	asia univ	3	148	23
+122	ask solut ec	1	0	0
+123	assam sci & technol univ	1	1	14
+124	assam town univ	1	1	14
+125	assiut univ	2	30	23
+126	associated lab intelligent syst lasi	1	3	2
+127	astana int univ	1	1	2
+128	astana it univ	1	0	2
+129	aston univ	1	13	0
+130	astrakhan state tech univ	1	3	0
+131	aswan univ	1	3	0
+132	athabasca univ	1	13	43
+133	atheeb intergraph saudi co aisc	1	2	0
+134	atilim univ	1	0	5
+135	atis soluc & seguridad	1	0	0
+136	atis solut	1	0	0
+137	auburn univ	1	172	4
+138	auckland univ technol	4	25	49
+139	auckland univ technol aut	1	6	0
+140	augusta univ	4	3	103
+141	auroras technol & res inst	1	0	7
+142	badr univ cairo	1	10	0
+143	bahauddin zakariya univ	1	31	84
+144	bahrain polytech	1	0	5
+145	bahria univ	3	19	7
+146	bannari amman inst technol	1	1	0
+147	baskent univ	1	1	0
+148	basque res & technol alliance brta	3	65	72
+149	basrah univ	1	13	0
+150	bauman moscow state tech univ	1	19	55
+151	bayan univ	1	0	0
+152	baylor univ	1	62	0
+153	bears	1	3	0
+154	begum nusrat bhutto women univ	1	2	6
+155	beihang univ	2	26	12
+156	beijing earthquake agcy	1	2	0
+157	beijing envada software engn co ltd	1	28	11
+158	beijing goldwind smart energy technol co ltd	1	29	6
+159	beijing inst technol	7	206	9
+160	beijing jiaotong univ	6	46	10
+161	beijing jingdian power grid maintenance grp co lt	1	2	0
+162	beijing key lab computat intelligence & intellige	1	47	0
+163	beijing key lab mobile comp & pervas device	1	5	0
+164	beijing lab urban mass transit	1	47	0
+165	beijing normal univ	2	8	24
+166	beijing polytech	1	19	8
+167	beijing qu creat technol co ltd	1	0	17
+168	beijing sifang automat co ltd	1	1	0
+169	beijing smart chip microelect technol co ltd	1	6	10
+170	beijing smartchip microelect technol co ltd	3	48	1
+171	beijing univ civil engn & architecture	1	0	0
+172	beijing univ posts & telecommun	7	38	10
+173	beijing univ sci & technol	1	17	4
+174	beijing univ technol	3	97	20
+175	beirut arab univ bau	1	2	11
+176	bell labs	1	66	3
+177	ben gurion univ negev	4	59	63
+178	benazir bhutto shaheed univ lyari	1	41	44
+179	benefield anecho facil baf	1	0	0
+180	benemerita univ autonoma puebla	1	9	0
+181	benha univ	13	154	534
+182	bentley syst inc	1	21	0
+183	bentley syst singapore pte ltd	1	21	0
+184	berlin univ	1	1	0
+185	bern univ appl sci	1	2	0
+186	bharat inst engn & technol	1	1	22
+187	bharati vidyapeeth coll engn	1	0	2
+188	biba bremer inst prod & logist	1	32	1
+189	bic izot	1	4	18
+190	bingol univ	3	13	83
+191	birla inst technol	2	19	0
+192	birmingham city univ	1	0	0
+193	biruni univ	1	0	0
+194	bit	1	36	0
+195	blekinge inst technol	1	31	84
+196	blekinge tekn hgsk	1	1	4
+197	bluwave ai	1	0	0
+198	bogazici univ	1	33	13
+199	boise state univ	1	2	1
+200	bosch engn ctr	1	5	19
+201	bowling green state univ	1	1	0
+202	bradley dept elect engn	1	11	5
+203	brandenburg univ technol cottbus senftenberg	1	7	0
+204	brandon univ	5	56	126
+205	bri capital inc	1	2	0
+206	brigham young univ	4	24	0
+207	british columbia inst technol bcit	1	2	0
+208	british telecommun plc	1	0	0
+209	british univ egypt	1	47	26
+210	brno univ technol	2	0	18
+211	brock univ	1	1	7
+212	brookhaven natl lab	2	13	1
+213	brunel univ london	3	34	0
+214	bs abdur rahman crescent inst sci & technol	1	144	0
+215	btu cottbus senftenberg	2	2	5
+216	bucharest univ econ studies	2	1	5
+217	budapest univ technol & econ	1	4	6
+218	bur meteorol	1	2	0
+219	bvc inst technol & sci	1	0	0
+220	c mast ctr mech & aerosp sci & technol	1	1	0
+221	c1	1	0	0
+222	caes	1	2	36
+223	cairo univ	1	0	4
+224	canadian univ dubai	1	1	9
+225	cangzhou jiaotong coll	1	3	5
+226	capabil associates	1	21	0
+227	cape coast tech univ	1	3	14
+228	capital univ sci & technol	1	11	23
+229	capital univ sci & technol cust	1	15	5
+230	cardiff univ	6	126	49
+231	carl von ossietzky univ oldenburg	2	4	0
+232	carleton univ	4	47	28
+233	carlos iii univ madrid	1	10	16
+234	carnegie mellon univ	1	2	3
+235	carthage univ	1	70	42
+236	cas ibri univ technol & appl sci	1	6	3
+237	case western reserve univ	2	6	1
+238	cass cty elect cooperat	1	0	0
+239	catalonia inst energy res irec	1	0	0
+240	ce djerdap hydroelect power plants ltd	1	56	37
+241	cecos univ	1	0	0
+242	cefet mg	1	9	3
+243	ceit basque res & technol alliance brta	1	6	0
+244	cell press	1	6	11
+245	cent met res & dev inst cmrdi	1	8	3
+246	cent queensland univ	2	28	31
+247	cent sichuan dist petrochina southwest oil & gas f	1	5	0
+248	cent south univ	3	42	9
+249	cent univ jammu	1	0	8
+250	centrum catolica grad business sch	1	7	2
+251	cepel	1	0	0
+252	cetc big data res inst co ltd	2	28	0
+253	chaitanya bharathi inst technol	1	25	32
+254	chalmers univ technol	3	134	9
+255	chandigarh coll engn	1	0	7
+256	chandigarh univ	4	254	37
+257	changan univ	2	48	12
+258	changsha univ	1	8	3
+259	changsha univ sci & technol	2	0	0
+260	changwon natl univ	2	8	0
+261	changzhou inst technol	1	12	0
+262	charles darwin univ	3	59	52
+263	chaudhary charan singh univ	1	0	0
+264	chengdu univ	1	4	3
+265	chengdu univ informat technol	1	3	0
+266	chengdu univ technol	1	5	6
+267	china agr univ	1	150	101
+268	china earthquake networks ctr	1	1	0
+269	china elect corp	1	0	5
+270	china elect power res inst	11	111	48
+271	china elect power res inst co ltd	2	3	0
+272	china med univ	5	56	126
+273	china mobile res inst	1	2	0
+274	china power engn consulting grp	1	38	2
+275	china southern power gird	1	0	0
+276	china southern power grid	1	0	7
+277	china southern power grid co ltd	3	151	34
+278	china southern power grid ehv transmiss co mainte	1	0	0
+279	china three gorges univ	2	95	6
+280	china univ geosci	3	125	8
+281	china univ min & technol	1	28	8
+282	china univ petr east china	2	23	14
+283	chinese acad sci	10	153	72
+284	chinese univ hong kong	5	121	87
+285	chinese univ hong kong shenzhen	2	49	12
+286	chitkara univ	4	28	104
+287	chongqing three gorges univ	1	1	2
+288	chongqing triloop prospecting technol co ltd	1	3	0
+289	chongqing univ	13	60	37
+290	chongqing univ china	1	5	0
+291	chongqing univ post & telecommun	1	7	6
+292	chongqing univ posts & telecommun	4	16	4
+293	chongqing univ technol	1	0	0
+294	chonnam natl uniers	1	5	0
+295	chonnam natl univ	1	1	0
+296	chosun univ	1	5	0
+297	chouaib doukkali univ	2	65	7
+298	christ deemed univ	1	34	0
+299	chubu univ	2	4	6
+300	chulalongkorn univ	1	14	3
+301	chung ang univ	2	31	2
+302	chung hua univ	1	13	3
+303	chung yuan christian univ	1	1	5
+304	chungbuk natl univ	2	63	107
+305	chungnam natl univ	1	0	10
+306	ciemat res ctr energy environm & technol	1	31	3
+307	cinvestav	2	6	0
+308	cinvestav guadalajara	2	36	6
+309	circe technol ctr parque empresarial dinamiza	1	0	0
+310	cisco syst inc	2	40	0
+311	cistel technol	1	65	24
+312	cistel technol inc	1	1	3
+313	citigroup	1	4	0
+314	city surrey	1	19	8
+315	city univ hong kong	9	268	131
+316	clarkson univ	3	49	11
+317	clemson univ	5	4	0
+318	cleverpal pty ltd	1	1	0
+319	cluj it cluster	1	4	0
+320	cmc inst sci & technol	1	0	3
+321	cmr coll engn & technol	1	1	22
+322	cnr	1	19	4
+323	co xian microelect technol inst	1	3	0
+324	coal city univ enugu	1	39	0
+325	coer univ	1	0	3
+326	coimbatore inst technol	1	1	0
+327	coll charleston	1	1	80
+328	coll engn	1	1	1
+329	coll engn & management	1	1	0
+330	coll engn pune	1	1	0
+331	collaborat innovat ctr geospatial technol	1	0	0
+332	colombian def minist csirt	1	18	25
+333	colorado sch mines	1	4	4
+334	colorado state univ	3	85	6
+335	columbia univ	3	246	28
+336	columbus state univ	1	0	2
+337	comed	1	2	1
+338	comenius univ	2	1	17
+339	comillas pontifical univ	1	13	1
+340	commun space & technol commiss	1	19	93
+341	comp technol applicat key lab yunnan prov	1	6	0
+342	companhia energet minas gerais cemig	1	2	0
+343	comsats inst informat technol	1	266	20
+344	comsats univ islamabad	24	299	315
+345	comsats univ islamabad cui	2	1	35
+346	comsensus	1	19	7
+347	concert technol	1	4	0
+348	concord new energy grp ltd	1	31	6
+349	concordia univ	9	74	49
+350	consolidated edison co new york inc	1	155	18
+351	control & algorithm grp	1	1	0
+352	coordinat ctr china	1	6	0
+353	copperbelt univ	1	4	11
+354	council sci & ind res csir	2	23	29
+355	covenant univ	2	1	3
+356	coventry univ	1	10	17
+357	cpfl energia	1	3	0
+358	cpi northeast elect power co ltd	1	3	0
+359	cps	1	0	17
+360	cra 1 este 19a-40 piso 7	1	0	0
+361	cracow univ technol	2	17	0
+362	cranfield univ	2	12	11
+363	cse ntu	1	3	4
+364	csg	1	0	0
+365	csg ehv power transmiss co	1	0	0
+366	csic chongqing haizhuang windpower equipment co l	1	17	0
+367	csir	4	183	107
+368	csiro	1	83	6
+369	csiros data61	2	15	2
+370	cssc haizhuang windpower co ltd	1	0	6
+371	ctl eurocoll	1	4	23
+372	ctr adv energy studies caes	8	48	378
+373	ctr adv reliabil & safety	1	12	28
+374	ctr int metodes numer engn	1	0	0
+375	ctr res & technol hellas	1	4	2
+376	ctr technol & syst uninova cts	1	3	2
+377	ctr wiskunde & informat	1	211	0
+378	cub sustainable investments	1	8	29
+379	cubo 17b univ calabria	1	6	0
+380	cubo 31c univ calabria	1	6	0
+381	cukurova univ	1	0	0
+382	cumhuriyet univ	1	3	0
+383	cuny	1	3	0
+384	curtin univ	1	110	13
+385	cyberlabs prod & serv tecnol sa	1	0	0
+386	cyprus energy regulatory author	1	6	0
+387	cyprus univ technol	6	96	74
+388	czech tech univ	1	0	0
+389	czech univ life sci prague	2	59	59
+390	daimler ag	1	6	0
+391	dakota state univ	1	28	0
+392	dalarna univ	1	12	4
+393	dalhousie univ	2	66	24
+394	dalian univ technol	2	12	13
+395	dambi dollo univ	2	15	14
+396	damghan univ	1	3	0
+397	dar al hekma univ	1	0	56
+398	data61 csiro	1	15	0
+399	dbappsecurity	1	5	2
+400	de la salle univ	1	1	17
+401	de montfort univ	5	331	27
+402	deakin univ	17	726	235
+403	debre berhan univ	1	3	4
+404	deemed univ	1	8	0
+405	deetc	1	0	1
+406	def inst adv technol	1	6	0
+407	deggendorf inst technol	3	51	23
+408	delft univ technol	6	157	41
+409	delhi coll engn	1	0	0
+410	delhi ncr	1	0	0
+411	delta higher inst engn technol	1	0	5
+412	delta univ sci & technol	1	0	5
+413	democritus univ thrace	4	44	4
+414	denizli water & sewage adm gen directorate	1	17	0
+415	dept comp sci & media technol	1	59	0
+416	dept elect engn	1	0	3
+417	dept elect engn esat	1	21	0
+418	dha suffa univ	1	15	0
+419	dhofar univ	1	14	0
+420	dispatching control ctr	1	0	0
+421	distribut code review panel	1	0	0
+422	distributie energie electrica romania mures branch	1	1	0
+423	dn vgl	1	40	0
+424	dokuz eylul technol dev zone depark	1	0	8
+425	dokuz eylul univ	1	0	8
+426	dong a univ	1	13	6
+427	dongbei univ finance & econ	1	85	16
+428	dongguan univ technol	2	91	10
+429	doscon as	1	1	0
+430	dr mahalingam coll engn & technol	1	0	6
+431	dr mgr educ & res inst	2	7	5
+432	dr n g p inst technol	1	0	7
+433	dr sivanthi aditanar coll engn	1	34	0
+434	dr vishwanath karad world peace univ	1	1	0
+435	drivendata inc	1	2	0
+436	dubai elect & water author dewa	1	2	1
+437	dubai elect secur ctr desc	1	6	0
+438	duy tan univ	3	75	52
+439	dvi commun	1	28	0
+440	dvr & dhs mic engn coll	1	0	0
+441	dwa energy ltd	2	17	27
+442	e austria res inst	1	8	0
+443	e distribuc redes digitales	2	0	0
+444	e redes	1	4	2
+445	earlham coll	1	4	0
+446	earthquake adm anhui prov	1	1	0
+447	east china branch state grid corp	1	0	17
+448	east china jiaotong univ	1	17	0
+449	east china normal univ	1	8	6
+450	east china univ technol	1	0	0
+451	east west univ	1	22	0
+452	eastern liaoning univ	1	3	0
+453	ecam epmi	1	6	0
+454	ecco int inc	1	1	3
+455	ecole polytech	1	1	0
+456	ecole technol super	1	10	10
+457	edf lab clamart	1	0	0
+458	edge hill univ	1	8	3
+459	edinburgh napier univ	5	70	33
+460	edith cowan univ	3	53	28
+461	eee ntu	1	3	4
+462	efacec	1	0	0
+463	effat univ	2	7	2
+464	ege univ	1	0	0
+465	egs pillay engn coll	2	12	6
+466	egypt japan univ sci & technol e just	1	12	11
+467	egyptian russian univ	1	18	7
+468	ehtp hassania sch publ works	1	5	0
+469	eight bells ltd	2	40	38
+470	eindhoven univ technol	3	50	27
+471	ekare inc	1	13	0
+472	el manar univ	1	70	42
+473	elect & telecommun res inst	1	2	0
+474	elect distribut design	1	8	0
+475	elect power engineers inc	1	0	0
+476	elect power res inst guangxi power grid co ltd	1	0	0
+477	elect reliabil council texas	1	20	21
+478	elect res inst	1	0	0
+479	elucidata lab sirris	1	14	12
+480	embry riddle aeronaut univ	1	5	2
+481	emig high sch	1	1	0
+482	enea	2	36	4
+483	energy queensland	1	0	1
+484	engie italia	1	14	12
+485	engie servizi spa	1	1	4
+486	engn technol res ctr ind automat	1	4	0
+487	ensea	1	0	25
+488	ensias mohammed v souissi univ	1	49	0
+489	ensias sch	1	0	0
+490	epcor water serv inc	1	4	0
+491	epfl innovat pk	1	0	0
+492	epri	2	3	0
+493	equinor asa	1	0	0
+494	erciyes univ	1	19	4
+495	ericsson	1	7	8
+496	ernst & young	1	6	0
+497	escuela super politecn litoral	1	40	23
+498	escuela super politecn litoral espol	1	3	23
+499	eskisehir tech univ	1	22	18
+500	espol	1	3	3
+501	est usmba	1	0	0
+502	estonian univ life sci	1	30	0
+503	ethiopian artificial intelligence inst	1	5	0
+504	european commis	1	2	0
+505	european commiss	1	0	0
+506	european dynam	1	31	20
+507	eurus energy holdings corp	1	0	0
+508	eurus tech serv corp	2	1	0
+509	eversource energy	1	0	7
+510	ewe offshore serv & solut gmbh	1	0	0
+511	fac elect engn nis	1	1	0
+512	fac engn	1	0	7
+513	fac sci tunis el manar	1	37	23
+514	fac tech sci	1	1	0
+515	fast natl univ comp & emerging sci	1	16	34
+516	fdn bruno kessler	1	3	2
+517	fdn univ int colombia	1	2	0
+518	fdn univ islamabad	1	7	8
+519	fed ctr technol educ minas gerais	1	9	3
+520	fed inst educ sci & technol pernambuco	1	3	1
+521	fed inst educ sci & technol sao paulo	1	5	12
+522	fed inst educ sci technol sao paulo	1	207	23
+523	fed univ dutse	1	2	0
+524	fed univ para	1	12	0
+525	fed univ para ufpa	1	14	0
+526	fed univ parana ufpr	1	24	12
+527	fed univ rio grande norte ufrn	1	1	1
+528	fed univ santa catarina ufsc	2	23	5
+529	fed univ technol	2	45	0
+530	fed univ technol owerri	2	1	13
+531	fed univ w para	1	12	0
+532	federat univ	1	3	22
+533	fei tu kosice	1	22	0
+534	feng chia univ	1	13	19
+535	finnish geospatial res inst	1	0	0
+536	firat univ	3	53	68
+537	first tech univ	1	0	9
+538	firstco ltd	1	5	0
+539	fitchburg state univ	1	11	34
+540	flanders make	2	0	1
+541	flinders univ s australia	2	25	0
+542	florida atlantic univ	3	4	6
+543	florida int univ	16	321	48
+544	florida polytech univ	2	28	8
+545	florida state univ	3	103	65
+546	fontys univ appl sci	1	1	6
+547	fordham univ	1	34	0
+548	forschungszentrum julich	1	2	2
+549	fortinet technol canada ulc	1	23	0
+550	fortinet technol inc	2	62	24
+551	fortune inst technol	1	0	0
+552	foshan power supply bur guangdong power grid co l	1	0	0
+553	fpt univ	1	0	3
+554	fr conceicao rodrigues inst technol	1	0	2
+555	fraunhofer fit	1	0	12
+556	fraunhofer fkie	1	0	0
+557	fraunhofer inst appl & integrated secur aisec	1	6	0
+558	fraunhofer inst energy econ & energy syst technol	2	13	7
+559	fraunhofer inst optron syst technol & image explo	1	3	3
+560	fraunhofer iosb adv syst technol	1	0	6
+561	friedrich alexander univ erlangen nurnberg	1	14	2
+562	fstf	1	0	0
+563	fudan univ	5	138	21
+564	fujian normal univ	1	161	16
+565	furnas centrais eletr sa	1	0	0
+566	future acad	1	2	0
+567	future univ egypt	4	28	21
+568	fuzhou univ	2	69	0
+569	g h raisoni coll engn	1	25	32
+570	gachon univ	7	47	124
+571	gandhi inst technol & management gitam deemed univ	1	8	13
+572	gautam buddha univ	1	4	0
+573	gazi univ	10	83	121
+574	ge global res	1	74	12
+575	ge multilin	1	0	0
+576	gecad res grp intelligent engn & comp adv innovat	1	2	12
+577	geely univ china	1	0	0
+578	geiri north amer	4	283	43
+579	geirina	1	24	9
+580	gen directorate	1	0	8
+581	gen elect	1	0	5
+582	gen elect res ctr	1	55	33
+583	gen motors	1	22	11
+584	gen secretariat digital policy	1	187	22
+585	genad syst	1	0	0
+586	george emil palade univ med pharm sci & technol ta	1	1	0
+587	george mason univ	5	120	273
+588	george washington univ	5	43	5
+589	georgia inst technol	6	144	56
+590	georgia so univ	1	151	22
+591	geredis deux sevres	1	1	0
+592	german aerosp ctr	1	1	6
+593	german jordanian univ	2	82	9
+594	german res ctr ai	1	0	0
+595	german res ctr artificial intelligence	1	7	0
+596	gh raisoni coll engn	2	1	0
+597	gik inst engn sci & technol	1	14	27
+598	gla univ	1	0	0
+599	global energy interconnect res inst north amer	1	15	1
+600	global univ syst	2	10	7
+601	gomal univ	1	29	80
+602	gonbad kavous univ	1	5	0
+603	google inc	1	155	18
+604	govt coll engn	1	1	0
+605	govt coll technol	1	0	11
+606	govt coll univ	1	10	0
+607	govt engn coll	1	15	0
+608	govt khyber pakhtunkhwa	1	0	0
+609	govt polytech	1	7	6
+610	govt xinan town	1	6	0
+611	govtech singapore	1	11	5
+612	graph era deemed be univ	2	8	14
+613	graph era deemed univ	3	69	6
+614	graph era hill univ	3	2	13
+615	graz univ technol	2	10	3
+616	graz univ technol graz	1	1	1
+617	greater western water	1	0	0
+618	green energy pk um6p	1	5	0
+619	green univ bangladesh	1	47	10
+620	greenbyte ab	1	24	18
+621	gridsentry private ltd	1	1	8
+622	griffith univ	5	119	103
+623	griffith univ brisbane	1	0	1
+624	guangdong acad agr sci	1	6	0
+625	guangdong nanhai power design & engn co ltd	3	1	70
+626	guangdong power grid	3	1	0
+627	guangdong power grid co	1	0	0
+628	guangdong power grid co ltd	4	1	0
+629	guangdong rizhao elect co ltd	1	0	0
+630	guangdong univ petrochem technol	1	0	13
+631	guangdong univ technol	1	3	1
+632	guangxi power grid co ltd	2	3	4
+633	guangxi univ	5	45	6
+634	guangzhou maritime univ	1	0	11
+635	guangzhou univ	4	130	24
+636	guelma univ	3	273	65
+637	guilin univ aerosp technol	3	28	31
+638	guilin univ elect technol	1	6	0
+639	guizhou power grid co	1	19	0
+640	guizhou power grid co ltd	2	25	0
+641	guizhou univ	4	17	66
+642	guochuang software co ltd	1	1	0
+643	guru jambheshwar univ sci & technol	1	0	9
+644	gwangju inst sci & technol gist	2	2	10
+645	gyanc res lab	1	47	10
+646	hacettepe univ	1	0	13
+647	hainan power grid co ltd	1	1	0
+648	halic univ	1	4	12
+649	hamad bin khalifa univ	6	184	273
+650	hamad bin khlifa univ	1	6	34
+651	hamburg univ technol	1	0	0
+652	hamdard inst engn & technol	1	10	0
+653	hamdard univ	1	7	8
+654	hame univ appl sci	1	2	0
+655	hanbat natl univ	2	1	1
+656	hangzhou normal univ	1	0	0
+657	hangzhou power supply co	1	0	0
+658	hannam univ	1	4	1
+659	hanoi univ sci & technol	3	13	9
+660	hanyang univ	3	268	42
+661	harbin engn univ	5	118	22
+662	harbin inst technol	8	147	53
+663	hashemite univ	1	1	0
+664	hassan first univ settat uh1	1	27	5
+665	hassan first univ settat uhi	1	1	2
+666	hassan ii univ	1	2	0
+667	hassania sch publ works	1	0	13
+668	hassania sch publ works ehtp	1	0	15
+669	hazara univ	2	1	5
+670	hebei chuangke elect technol co ltd	1	2	0
+671	hebei key lab elect machinery hlth maintenance & f	1	10	7
+672	hebei normal univ nationalities	1	1	10
+673	hedno	1	36	1
+674	hefei comprehens natl sci ctr	1	1	0
+675	hefei univ technol	8	191	20
+676	hehai univ	1	1	0
+677	heilongjiang univ	1	0	27
+678	heilongjiang univ technol	2	0	14
+679	hellen mediterranean univ	1	4	18
+680	hellen mediterranean univ crete	1	1	0
+681	hellen telecommun org sa	1	4	0
+682	hellenic mediterranean univ	1	1	0
+683	helmut schmidt univ fed armed forces	1	6	0
+684	helwan univ	1	3	0
+685	henan inst technol	1	3	8
+686	henan univ	1	73	13
+687	henan univ sci & technol	4	1	77
+688	heriot watt univ	1	278	28
+689	high field magnet resonance brain imaging lab sic	1	22	1
+690	high voltage technol ctr hivotec nigeria	1	0	0
+691	higher inst engn & technol king marriott	1	20	4
+692	higher sch elect engn & energet	1	0	1
+693	highline coll	1	28	0
+694	hindusthan coll engn & technol	1	16	1
+695	hit	1	0	0
+696	ho chi minh city univ technol	1	15	0
+697	hohai univ	5	84	2
+698	holy cross energy	1	3	7
+699	hong kong polytech univ	6	98	88
+700	hongik univ	2	6	10
+701	hosei univ	1	49	34
+702	hpps derdap	1	0	0
+703	htwg konstanz	1	0	0
+704	huabei oilfield cbm branch co	1	0	0
+705	huabei oilfield co	1	0	0
+706	huadian elect power res inst co ltd	1	3	9
+707	huazhong univ sci & technol	9	167	76
+708	hubei key lab adv control & intelligent automat co	1	0	0
+709	hubei univ technol	3	9	3
+710	huizhou univ	1	0	0
+711	hun ren bme cloud applicat res grp	1	4	6
+712	hunan univ	6	250	171
+713	hunan univ sci & technol	1	20	3
+714	hut grp	1	19	8
+715	huzhou inst ind control technol	1	4	45
+716	huzhou univ	1	0	2
+717	hydro qubec res inst ireq	1	0	0
+718	hydro quebec res inst	1	9	9
+719	hydroquebec ireq	1	110	13
+720	hydroquebec res inst	1	1	4
+721	hydroquebec res inst ireq	2	33	34
+722	hydroquebecs res inst	1	1	2
+723	ibex cx	1	15	0
+724	ibm res	2	0	1
+725	ibn tofail univ	1	4	0
+726	idaho natl lab	2	41	16
+727	idaho state univ	13	119	519
+728	ie2spomtf	1	0	0
+729	ifp energies nouvelles	1	2	0
+730	igs ntu	1	3	4
+731	igw operators forum	1	70	24
+732	ihp leibniz inst innovat mikroelekt	3	2	5
+733	iiasa	1	317	24
+734	iiit	1	11	1
+735	iit	2	123	66
+736	ilmenau univ technol	1	0	0
+737	imam abdulrahman bin faisal univ	3	37	26
+738	imam al kadhum coll ikc	1	0	0
+739	imam jaafar al sadiq univ	1	13	0
+740	imam mohammad ibn saud islamic univ	1	2	0
+741	imam mohammad ibn saud islamic univ imsiu	1	0	0
+742	impact technol	1	22	11
+743	imperial coll london	4	67	6
+744	imperial off	2	37	76
+745	incheon natl univ	1	8	0
+746	ind syst inst rc athena	2	29	25
+747	indian inst engn sci & technol	1	1	0
+748	indian inst informat technol	1	2	0
+749	indian inst informat technol lucknow iiitl	1	6	3
+750	indian inst management	1	3	2
+751	indian inst sci	4	78	7
+752	indian inst technol	6	94	31
+753	indian inst technol bhu	2	45	44
+754	indian inst technol bhubaneswar	1	34	4
+755	indian inst technol delhi	4	75	64
+756	indian inst technol gandhinagar	1	87	10
+757	indian inst technol hyderabad	1	2	0
+758	indian inst technol kanpur	3	29	18
+759	indian inst technol kharagpur	2	0	20
+760	indian inst technol madras	1	17	26
+761	indiana univ	1	26	0
+762	indraprastha inst informat technol new delhi	1	0	0
+763	inesc coimbra	1	2	0
+764	inesc tec	1	0	0
+765	inesc technol & sci inesc tec	2	6	2
+766	informat commun branch hainan power grid co ltd	1	1	0
+767	informat dd	1	7	0
+768	informat technol inst	1	31	20
+769	inland norway univ appl sci	1	3	14
+770	inner mongolia med univ	1	0	0
+771	inner mongolia univ sci & technol	1	0	0
+772	innovat hub publ power corp sa	1	4	18
+773	inonu univ	1	17	0
+774	inst disaster prevent	1	1	0
+775	inst etri	1	1	0
+776	inst fed maranhao	1	0	0
+777	inst fed sao paulo	1	0	0
+778	inst high performance comp	1	12	2
+779	inst infocomm res	1	161	16
+780	inst infrastruct technol res & management	1	110	13
+781	inst int stockage hydrogene	1	47	26
+782	inst nachhaltige energieversorgung gmbh inev	1	14	2
+783	inst natl polytech grenoble	1	4	0
+784	inst pesquisas eldorado	1	0	0
+785	inst politecn lisboa	1	3	1
+786	inst politecn nacl	2	52	34
+787	inst rech hydroquebec	2	19	28
+788	inst res fundamental sci ipm	1	14	3
+789	inst southern punjab	1	19	13
+790	inst tecnol & estudios super occidente	1	31	3
+791	inst teknol bandung	1	4	0
+792	int hellen univ	3	130	86
+793	int hellenic univ	2	4	4
+794	int inst informat technol	2	69	0
+795	int inst technol & management	2	33	87
+796	int islamic univ	1	47	10
+797	int islamic univ chittagong	1	28	1
+798	int islamic univ islamabad	1	1	6
+799	int islamic univ malaysia	5	41	41
+800	int sci complex astana	1	1	2
+801	int univ rabat	1	7	2
+802	intel corp	2	6	47
+803	intelligent terminal key lab sichuan prov	1	1	1
+804	inti int univ	1	11	0
+805	iot digital innovat hub spain	1	5	0
+806	iowa state univ	3	122	26
+807	ipa sa	1	0	0
+808	ipn	1	31	3
+809	iran univ sci & technol	2	35	16
+810	iraq univ coll	1	13	0
+811	iresen	2	5	13
+812	irnas	1	78	2
+813	isc konstanz	1	0	0
+814	isfahan univ technol	2	52	9
+815	isi fdn	1	1	0
+816	isl coll engn	1	0	0
+817	islamia univ bahawalpur	3	79	131
+818	islamic azad univ	4	45	55
+819	islamic univ technol	1	21	17
+820	ismb	2	26	0
+821	ist super mario boella	1	0	0
+822	istanbul kultur univ	1	7	19
+823	istanbul medeniyet univ	1	4	12
+824	istanbul sabahattin zaim univ	1	7	19
+825	istanbul tech univ	6	138	179
+826	istanbul ticaret univ	2	39	70
+827	istanbul topkapi univ	1	2	19
+828	istanbul univ cerrahpasa	1	1	0
+829	iteso ac univ	1	2	0
+830	itt madras	1	3	0
+831	iuss pavia	1	0	6
+832	jacksonville state univ	1	20	11
+833	jadara univ	1	0	5
+834	jagannath univ	1	0	0
+835	james cook univ	1	2	14
+836	jamia millia islamia	3	61	8
+837	jamia millia islamia new delhi	1	3	0
+838	japan adv inst sci & technol	1	19	17
+839	jawaharlal nehru technol univ	1	7	0
+840	jazan univ	1	15	5
+841	jc bose univ sci & technol	1	0	0
+842	jeddah univ	1	8	3
+843	jeju natl univ	6	51	36
+844	jemena	1	0	6
+845	jerusalem coll engn	1	24	18
+846	jiangsu elect power informat technol co	1	2	0
+847	jiangsu hydraul res inst	1	3	0
+848	jiangsu prov hydrol & water resources invest bur	1	3	0
+849	jiangsu univ	2	10	10
+850	jiangxi elect power co	1	4	0
+851	jiangxi univ finance & econ	1	0	0
+852	jiangxi univ sci & technol	1	46	13
+853	jiaxing qiuyuan testing technol co	1	0	0
+854	jiaxing univ	3	58	60
+855	jiaying univ	1	12	28
+856	jilin engn normal univ	1	2	0
+857	jilin polytech water resources & elect engn	1	0	18
+858	jilin prov power commun co	1	38	2
+859	jilin univ	1	8	0
+860	jinan infect dis hosp	1	1	0
+861	jinan univ	1	49	17
+862	jis coll engn	1	40	8
+863	joaan bin jassim acad def studies	1	2	11
+864	john paul ii catholic univ lublin	1	5	0
+865	johns hopkins univ	1	66	3
+866	joldasbekov inst mech & engn	1	0	2
+867	jorhat engn coll	1	1	14
+868	jouf univ	4	21	56
+869	jozef stefan inst	1	34	4
+870	jsc cent res inst econ management & informat syst	1	40	6
+871	juntendo univ	1	11	0
+872	kalasalingam acad res & educ	1	144	0
+873	kalinga inst ind technol	2	18	6
+874	kalinga inst ind technol kiit deemed univ	1	8	13
+875	kanazawa univ	1	85	6
+876	kangwon natl univ	1	0	18
+877	kansas state univ	4	91	11
+878	karachi inst econ & technol	1	15	0
+879	karadeniz tech univ	2	6	16
+880	karlsruhe inst technol	4	55	14
+881	karlstad univ	1	134	34
+882	karnavati univ	1	6	14
+883	karunya inst technol & sci	1	6	0
+884	kasetsart univ	1	0	1
+885	katholieke univ leuven	4	6	13
+886	kaunas univ technol	2	11	38
+887	kcg coll technol	2	15	1
+888	kddi res	1	2	0
+889	kebri dehar univ	4	66	95
+890	keio univ	1	6	0
+891	ken saro wiwa polytech	1	6	0
+892	kennesaw state univ	4	235	163
+893	kent state univ	1	102	84
+894	kepco res inst	2	8	0
+895	kg reddy coll engn & technol	1	0	7
+896	khalifa univ	6	97	48
+897	khalifa univ sci & technol	1	15	7
+898	khalifa univ sci technol & res	1	161	16
+899	kiit univ	1	5	0
+900	kinectr inc	1	1	0
+901	king abdulaziz univ	23	567	520
+902	king abdulaziz univ kau	1	5	6
+903	king abdullah univ sci & technol kaust	5	89	159
+904	king abdullah univ sci & technol kaust comp	1	22	24
+905	king fahad naval acad	1	53	9
+906	king fahd univ petr & minerals	3	27	16
+907	king faisal univ	6	86	60
+908	king khalid univ	9	45	75
+909	king mongkuts inst technol ladkrabang	1	0	1
+910	king mongkuts inst technol ladkrabang kmitl	1	3	0
+911	king mongkuts univ technol north bangkok	1	5	0
+912	king salman int univ	1	3	0
+913	king saud univ	28	337	584
+914	kings coll london	2	50	7
+915	kings engn coll	1	0	3
+916	kingston univ london	1	4	18
+917	kl deemed univ	1	6	22
+918	kn toosi univ technol	1	32	0
+919	knowledge univ	1	0	0
+920	knrtu	1	0	0
+921	knrtu kai	1	0	0
+922	koforidua tech univ	1	3	14
+923	koneru lakshmaiah educ fdn	6	20	20
+924	koneru lakshmaiah educ fdn vaddeswaram	1	0	11
+925	kongu engn coll	2	78	3
+926	konkuk univ	1	4	0
+927	kore univ enna	1	0	4
+928	korea adv inst sci & technol	1	0	0
+929	korea adv inst sci & technol kaist	1	1	0
+930	korea elect power corp	1	2	0
+931	korea elect power corp res inst	2	1	1
+932	korea elect technol inst	1	5	0
+933	korea electrotechnol res inst	2	0	0
+934	korea inst ind technol	1	1	0
+935	korea natl univ transportat	2	0	10
+936	korea univ	4	35	3
+937	kpmg huazhen llp	1	51	22
+938	kristianstad univ	1	2	6
+939	kth royal inst technol	8	89	30
+940	kumoh natl inst technol	6	43	42
+941	kumoh natl inst technol gumi	2	0	3
+942	kunming univ sci & technol	1	6	0
+943	kurukshetra univ	1	4	0
+944	kwangwoon univ	2	2	35
+945	kyrgyz turkish manas univ	1	30	0
+946	kyung hee univ	2	16	20
+947	kyungpook natl univ	4	31	19
+948	la trobe univ	6	124	81
+949	lakehead univ	2	26	57
+950	lakireddy bali reddy coll engn	1	34	0
+951	lanzhou city univ	1	0	0
+952	lanzhou power supply co	1	0	0
+953	larbi tebessi univ	2	6	4
+954	lasi intelligent syst associate lab	1	2	12
+955	laval univ	1	6	14
+956	lawrence berkeley natl lab	1	6	0
+957	lbisen	1	3	13
+958	leaderbrand	1	3	0
+959	lebanese amer univ	8	103	213
+960	lehigh univ	5	21	47
+961	leshan vocat & tech coll	1	0	0
+962	libyan author sci res	1	1	10
+963	libyan ctr engn & informat technol	1	5	14
+964	limes secur	1	14	10
+965	lingnan normal univ	1	0	9
+966	linkoping univ	1	0	0
+967	links fdn	1	0	0
+968	linnaeus univ	1	59	0
+969	liteon singapore	1	0	0
+970	lithuanian energy inst	1	40	6
+971	liverpool hope univ	1	9	0
+972	liverpool john moores uni	1	1	0
+973	liverpool john moores univ	2	3	49
+974	liwa coll technol	3	38	43
+975	ln gumilyov eurasian natl univ	1	1	2
+976	lodz univ technol	1	11	0
+977	london south bank univ	2	5	0
+978	lorestan univ	1	40	4
+979	los alamos natl lab	4	131	32
+980	lovely profess univ	8	97	122
+981	lucian blaga univ sibiu	1	1	0
+982	lulea univ technol	4	113	50
+983	luoyang normal univ	1	17	0
+984	lut univ	3	46	14
+985	luxembourg ctr syst biomed	1	31	0
+986	lviv polytech natl univ	1	0	0
+987	m auezov south kazakhstan univ	1	1	0
+988	macau univ sci & technol	1	120	3
+989	macquarie univ	14	87	47
+990	madanapalle inst technol & sci	1	0	6
+991	mae fah luang univ	1	1	2
+992	maharaja agarsen inst technol	1	0	0
+993	maharaja agrasen inst technol	2	7	0
+994	maharashtra state elect transmiss co ltd msetcl	1	1	0
+995	maharishi markandeshwar deemed be univ	1	0	7
+996	maharishi markandeshwar deemed univ	1	0	3
+997	mahindra univ	1	0	1
+998	malardalen univ	2	9	3
+999	malaviya natl inst technol	4	21	50
+1000	malayer univ	1	13	0
+1001	malla reddy engn coll	1	46	2
+1002	malmo univ	1	0	16
+1003	manav rachna int inst res & studies	1	0	9
+1004	manipal acad higher educ	1	1	14
+1005	manipal inst technol elect & commun	1	4	0
+1006	mansfield univ penn	1	5	4
+1007	mansoura univ	2	157	0
+1008	marquette univ	1	18	0
+1009	marsh advisory	1	0	0
+1010	masaryk univ	2	9	4
+1011	maseeh coll ecs	1	0	0
+1012	mathworks india private ltd	1	0	1
+1013	mcgill univ	6	49	34
+1014	mcmaster univ	1	2	5
+1015	mdconsulting	1	5	0
+1016	med spectrum twente	1	1	0
+1017	mehran univ engn & technol	2	12	0
+1018	mem sloan kettering canc ctr	1	125	0
+1019	menoufia univ	1	25	4
+1020	mepco schlenk engn coll	1	2	10
+1021	merkle sci	1	3	1
+1022	metamind innovat pc	1	1	1
+1023	mhamed bougara univ boumerdes	1	6	3
+1024	michigan technol univ	1	28	14
+1025	microsoft inc	1	11	5
+1026	microsoft res	2	2	2
+1027	microsoft res india	1	11	2
+1028	mid sweden univ	1	20	0
+1029	midcomp res ctr	1	8	0
+1030	middle east tech univ	1	1	0
+1031	middle east univ	1	0	5
+1032	middleware technol lab	1	8	0
+1033	midlands state univ	1	3	3
+1034	midori srl	1	3	1
+1035	mik res ctr	1	3	0
+1036	mil tech acad	1	1	0
+1037	mil tech coll	1	2	37
+1038	milsoft util solut inc	1	2	0
+1039	min & met inst bor	2	5	0
+1040	mines paristech	1	2	0
+1041	minia univ	3	61	7
+1042	minist educ	8	162	19
+1043	minist educ china	1	11	5
+1044	minist elect & renewable energy	1	18	7
+1045	minist emergency management china	2	2	0
+1046	minist min & energy	1	4	0
+1047	minist nat resources china	1	0	0
+1048	mirpur univ sci & technol	2	266	23
+1049	misr int univ	1	10	0
+1050	mississippi state univ	4	268	4
+1051	missouri univ sci & technol	5	71	47
+1052	mit	3	437	52
+1053	mit art design & technol univ	1	34	0
+1054	mit ibm watson ai lab	1	0	0
+1055	mit mysore	1	12	40
+1056	mitsubishi elect res labs	2	194	9
+1057	mitsubishi electr corp	1	2	0
+1058	mmmut	1	0	0
+1059	mnnit allahabad	1	3	2
+1060	modul univ vienna	1	54	1
+1061	mohamed bin zayed univ artificial intelligence mbz	1	18	0
+1062	mohammed v univ	1	58	5
+1063	mohammed v univ rabat	2	54	28
+1064	mohammed vi polytech univ	1	0	15
+1065	mohammed vi polytech univ um6p	2	28	5
+1066	mohan babu univ	1	0	6
+1067	mokwon univ	1	4	1
+1068	monash univ	3	39	35
+1069	mondragon univ	1	3	0
+1070	montana state univ	1	0	5
+1071	morgan state univ	1	8	0
+1072	moscow power engn inst	1	3	0
+1073	moulay ismail univ	1	1	22
+1074	movej analyt	1	2	0
+1075	mudanjiang power ind sch	1	0	0
+1076	mugla sitki kocman univ	1	5	15
+1077	multimedia univ	2	53	43
+1078	munzur univ	1	4	22
+1079	muroran inst technol	1	38	0
+1080	must	1	88	45
+1081	mutah univ	1	0	4
+1082	mykolaiv natl agr univ	1	6	0
+1083	mylink inc	1	2	4
+1084	myongji univ	3	13	19
+1085	n china elect power univ	1	10	0
+1086	nacl univ loja	1	65	16
+1087	nagoya univ	1	0	0
+1088	najran univ	8	48	138
+1089	nanchang inst sci & technol	1	11	14
+1090	nanchang univ	1	22	4
+1091	nanjing agr univ	1	35	10
+1092	nanjing sac metso control syst co ltd	1	0	0
+1093	nanjing sac power grid automat co ltd	1	1	0
+1094	nanjing univ	1	19	0
+1095	nanjing univ aeronaut & astronaut	6	159	83
+1096	nanjing univ finance & econ	1	2	0
+1097	nanjing univ informat sci & technol	2	4	9
+1098	nanjing univ posts & telecommun	7	225	79
+1099	nanjing univ sci & technol	4	71	15
+1100	nanocellect biomed inc	1	11	0
+1101	nanyang technol univ	25	437	201
+1102	nanyang technol univ ntu	1	3	4
+1103	nari grp corp	1	0	4
+1104	nari technol co ltd	2	0	4
+1105	natl aerosp univ	1	1	0
+1106	natl aviat univ	1	4	0
+1107	natl bur stat	1	3	14
+1108	natl cheng kung univ	1	0	1
+1109	natl chung cheng univ	1	4	0
+1110	natl chung hsing univ	2	13	4
+1111	natl coll ireland	1	6	3
+1112	natl def univ	1	22	18
+1113	natl energy technol lab	2	0	0
+1114	natl informat solut cooperat	1	8	0
+1115	natl inst adv ind sci & technol	4	112	40
+1116	natl inst engn	1	7	0
+1117	natl inst informat	1	1	0
+1118	natl inst posts & telecommun	1	0	34
+1119	natl inst technol	6	53	10
+1120	natl inst technol agartala	1	12	2
+1121	natl inst technol andhra pradesh	2	12	34
+1122	natl inst technol arunachal pradesh	2	45	44
+1123	natl inst technol durgapur	1	1	0
+1124	natl inst technol meghalaya	1	1	6
+1125	natl inst technol nagaland	1	2	2
+1126	natl inst technol puducherry	2	32	1
+1127	natl inst technol raipur	5	21	59
+1128	natl inst technol rourkela	1	2	0
+1129	natl interuniv consortium informat cini	1	34	4
+1130	natl kaohsiung univ sci & technol	1	12	15
+1131	natl korea maritime & ocean univ	1	2	4
+1132	natl renewable energy lab	2	61	33
+1133	natl res council italy	1	19	0
+1134	natl res council italy cnr	2	16	10
+1135	natl res inst astron & geophys	1	26	39
+1136	natl res irkutsk state tech univ	1	0	0
+1137	natl sci & technol dev agcy	1	5	0
+1138	natl sun yat sen univ	1	0	0
+1139	natl supercomp ctr tianjin	1	29	6
+1140	natl taipei univ technol	1	5	0
+1141	natl taiwan ocean univ	1	0	0
+1142	natl taiwan univ	1	10	0
+1143	natl taiwan univ sci & technol	3	120	5
+1144	natl tech univ athens	6	149	33
+1145	natl univ comp & emerging sci	5	92	60
+1146	natl univ comp & emerging sci fast	1	2	16
+1147	natl univ def technol	4	78	11
+1148	natl univ huancavel	1	0	9
+1149	natl univ ireland galway nuig	1	5	5
+1150	natl univ ireland maynooth	1	6	3
+1151	natl univ loja	1	3	9
+1152	natl univ modern languages	2	11	0
+1153	natl univ radio elect	1	1	0
+1154	natl univ san juan	2	9	2
+1155	natl univ sci & technol	5	142	38
+1156	natl univ singapore	5	92	35
+1157	natl univ singapore nus	1	21	18
+1158	natl yang ming chiao tung univ	2	22	21
+1159	natl yunlin univ sci & technol	3	29	35
+1160	naval postgrad sch	1	0	0
+1161	naval surface warfare ctr	1	0	0
+1162	nazarbayev univ	1	6	0
+1163	near east univ	1	21	0
+1164	nec labs amer inc	1	11	5
+1165	necmettin erbakan univ	1	27	17
+1166	neijiang normal univ	1	22	1
+1167	neoenergia grp	1	0	0
+1168	neog new energy opt geracao energia	1	3	1
+1169	nerist deeed univ	1	2	0
+1170	nestl privated ltd	1	24	18
+1171	new horizon coll engn	1	1	0
+1172	new jersey inst technol	3	33	15
+1173	new mexico inst min & technol	4	34	51
+1174	new mexico state univ	2	1	17
+1175	new york power author nypa	1	8	2
+1176	newcastle univ	4	100	32
+1177	newcastle univ singapore	1	1	6
+1178	nile univ	1	10	0
+1179	nimhans	1	4	0
+1180	ningbo china inst supply chain innovat	1	11	23
+1181	ningbo power transmiss & transformat construct co	1	0	0
+1182	ningbo zhoushan port grp co ltd	1	15	13
+1183	ninghai power supply co ltd	1	0	0
+1184	ningxia key lab elect energy secur	1	0	10
+1185	ningxia univ	3	2	26
+1186	nirma univ	5	131	12
+1187	nisantasi univ	1	3	14
+1188	nit	1	36	0
+1189	nit hamirpur	1	0	54
+1190	nizhnii novgorod state tech univ	1	1	3
+1191	nmims univ	1	3	0
+1192	noaa	1	2	0
+1193	noida int univ	1	0	9
+1194	noja power	1	5	4
+1195	noorul islam ctr higher educ	1	14	0
+1196	norce	1	0	0
+1197	north carolina a&t state univ	2	1	6
+1198	north carolina agr & tech state univ	1	0	29
+1199	north carolina state univ	4	114	30
+1200	north china elect power univ	25	514	165
+1201	north china univ technol	1	0	0
+1202	north china univ water resources & elect power	1	73	13
+1203	north dakota state univ	1	4	3
+1204	northeast agr univ	1	11	6
+1205	northeast elect power univ	6	207	85
+1206	northeastern univ	5	28	13
+1207	northeastern univ qinhuangdao	1	16	21
+1208	northern tech univ	1	0	0
+1209	northern vehicle res inst	1	5	0
+1210	northumbria univ	3	41	6
+1211	northwestern polytech univ	4	23	19
+1212	norwegian univ life sci	1	1	0
+1213	norwegian univ sci & technol	7	114	51
+1214	norwegian univ sci & technol ntnu	1	1	10
+1215	nrel	1	3	7
+1216	nri inst technol	1	0	0
+1217	ntnu	1	0	0
+1218	nucl med & mol imaging key lab sichuan prov	1	15	0
+1219	nust	1	5	4
+1220	nwp imd	1	0	21
+1221	nxp semicond	1	5	4
+1222	nyu	2	17	27
+1223	oak ridge natl lab	9	278	77
+1224	obafemi awolowo univ	1	1	3
+1225	off gas & elect markets ofgem	1	278	28
+1226	offis	1	4	0
+1227	offis inst it	1	0	0
+1228	oinf	1	31	20
+1229	oklahoma state univ	1	0	0
+1230	old dominion univ	4	23	35
+1231	oman tourism coll	1	3	43
+1232	oncontrol technol	1	6	0
+1233	ontario tech univ	1	0	12
+1234	op jindal global univ	1	67	0
+1235	oracle india pvt ltd	1	11	5
+1236	oregon inst technol	1	24	18
+1237	oregon state univ	1	0	0
+1238	osaka inst technol	1	5	0
+1239	osaka univ	1	22	5
+1240	ostfold univ coll	1	2	10
+1241	otto von guericke univ	1	6	4
+1242	paavai engn coll	2	51	39
+1243	pacific gas & elect co	1	0	0
+1244	pacific northwest natl lab	6	29	6
+1245	pacific northwest natl lab pnnl	1	2	1
+1246	pacific nw natl lab	1	2	0
+1247	padjadjaran state univ	1	3	20
+1248	pak austria fachhochsch	1	33	3
+1249	palestine tech coll	1	19	4
+1250	panimalar engn coll	1	0	6
+1251	panimalar inst technol	1	16	42
+1252	panjab univ	2	7	16
+1253	panzhihua univ	1	0	0
+1254	paraiba power plants sa epasa	1	20	3
+1255	parul univ	1	0	7
+1256	pazhou lab	1	0	0
+1257	peking univ	5	31	10
+1258	pendulum syst	1	0	2
+1259	peng cheng lab	1	2	5
+1260	penn state harrisburg	1	0	14
+1261	penn state univ	4	86	45
+1262	periyar univ	1	19	0
+1263	peter great st petersburg polytech univ	1	14	3
+1264	petr univ technol	1	12	10
+1265	petro mohyla black sea natl univ	1	6	0
+1266	petrochina huabei co	1	0	0
+1267	petru maior univ targu mures	1	65	0
+1268	physikal tech bundesanstalt	1	0	3
+1269	pk coll engn & technol	1	5	0
+1270	plekhanov russian univ econ	1	13	0
+1271	plytech porto p porto	1	3	3
+1272	polish air force univ	1	15	23
+1273	politecn milan	7	81	77
+1274	politecn torino	6	27	3
+1275	politehn univ timisoara	1	1	0
+1276	politekn negeri pontianak	1	1	0
+1277	polyethn univ bucharest	1	2	0
+1278	polytech inst leiria	1	2	0
+1279	polytech inst lisbon ipl	1	3	2
+1280	polytech montral	1	1	0
+1281	polytech porto	3	3	24
+1282	polytech univ bari	1	3	3
+1283	polytech viseu	2	20	10
+1284	pondicherry engn coll	1	4	14
+1285	pondicherry univ	1	6	47
+1286	pontif catholic univ rio de janeiro puc rio	1	3	0
+1287	pontifical catholic univ parana pucpr	1	24	12
+1288	pontifical catholic univ peru	2	7	11
+1289	pontifical catholic univ rio janeiro puc rio	1	24	12
+1290	pontificia comillas univ	1	12	0
+1291	pontificia univ catolica parana	2	10	15
+1292	pontificia univ javeriana	1	13	0
+1293	portland state univ	2	6	0
+1294	posts & telecommun inst technol	1	0	3
+1295	power china sichuan elect power engn co ltd	1	0	0
+1296	power factors	1	10	10
+1297	power res inst liaoning elect power co ltd	1	1	0
+1298	power supply bur	1	0	0
+1299	ppgia pontifical catholic univ parana	1	18	2
+1300	prairie a&m univ	1	23	23
+1301	pranveer singh inst technol	1	0	4
+1302	pricewaterhousecoopers	1	8	0
+1303	prince mohammad bin fahd univ	1	0	0
+1304	prince sattam bin abdulaziz univ	6	39	50
+1305	prince saud alfaisal inst diplomat studies	1	15	0
+1306	prince songkla univ	1	12	43
+1307	prince sultan univ	1	1	4
+1308	prince sultan univ psu	1	24	18
+1309	princess nourah bint abdulrahman univ	8	59	60
+1310	princess nourah bint abdulrahman univ pnu	1	15	6
+1311	princeton univ	3	79	26
+1312	protiviti inc	1	31	0
+1313	psl res univ	1	15	13
+1314	psn coll engn & technol	3	63	39
+1315	publ power corp sa	2	35	40
+1316	publ serv elect & gas co pse&g	1	20	10
+1317	publ util board pub	1	21	0
+1318	puc mg	1	7	0
+1319	puducherry technol univ	1	46	2
+1320	pune inst comp technol	1	3	0
+1321	purdue univ	5	67	20
+1322	pusan natl univ	4	128	56
+1323	qassim univ	2	50	37
+1324	qatar univ	10	436	365
+1325	qatar univ qu	1	21	5
+1326	qilu univ technol	2	11	10
+1327	qingdao brain optoelect technol co ltd	1	2	0
+1328	qingdao univ	2	29	11
+1329	qinghai univ	2	19	0
+1330	qinghai univ sci & technol	1	0	0
+1331	qis coll engn & technol	1	2	5
+1332	quanta technol llc	1	3	0
+1333	quantum innovat pc	2	2	0
+1334	qubitech	1	1	0
+1335	queen mary univ london	1	4	0
+1336	queens univ belfast	2	3	0
+1337	queensland univ technol	4	36	17
+1338	qufu normal univ	3	25	12
+1339	quinnipiac univ	1	11	34
+1340	r&d dept hellen cables	1	6	0
+1341	radboud univ nijmegen	3	7	8
+1342	radix software & engn	1	20	3
+1343	rajiv gandhi inst technol	1	1	5
+1344	rajshahi univ engn & technol	2	0	13
+1345	ramon llull univ	1	23	0
+1346	ramrao adik inst technol nerul	1	3	3
+1347	ras	1	0	0
+1348	rayat bahra univ	1	0	7
+1349	razi univ	1	0	0
+1350	rdt co	1	15	3
+1351	reconnect energy solut pvt ltd	1	14	14
+1352	renmin univ china	2	43	53
+1353	rensselaer polytech inst	3	90	7
+1354	rensselaer polytech inst rpi	1	13	4
+1355	res & dev ctr	1	23	8
+1356	res & dev inst environm protect technol & equipme	1	4	0
+1357	res ctr athena	2	14	7
+1358	res ctr mass language informat proc & cloud comp	1	37	0
+1359	reseau transport electr rte	1	2	0
+1360	resolve tech solut	1	6	0
+1361	reva univ	1	2	0
+1362	rhein westfal th aachen	2	10	2
+1363	riken	1	11	0
+1364	riken ctr brain sci	1	11	0
+1365	riphah int univ	1	0	13
+1366	riscure bv	1	5	4
+1367	rmit univ	8	541	79
+1368	rmk engn coll	2	68	3
+1369	robert gordon univ	1	1	5
+1370	robert morris univ	1	8	0
+1371	robot sch fuzhou polytech	1	30	0
+1372	roma tre univ	1	0	0
+1373	rosenheim tech univ appl sci	1	14	2
+1374	ross state univ	1	0	0
+1375	royal holloway univ london	1	10	3
+1376	royal inst technol kth	1	18	10
+1377	royal mil coll canada	1	0	3
+1378	rte r&d	1	0	0
+1379	russian acad sci	1	1	3
+1380	russian acad sci spc ras	1	2	0
+1381	rutgers state univ	2	72	2
+1382	rv coll engn	1	0	0
+1383	rvs coll engn & technol	1	0	11
+1384	ryerson univ	3	48	45
+1385	rzeszow univ technol	1	172	4
+1386	sa engn coll	1	0	3
+1387	sadeckie wodociagi sp zoo	1	5	0
+1388	sahand univ technol	7	147	179
+1389	sakarya univ	1	3	1
+1390	salerno univ	1	13	0
+1391	salzburg univ appl sci	2	14	0
+1392	samsun univ	3	42	73
+1393	samsung elect	1	3	0
+1394	san jose state univ	1	2	0
+1395	sandia natl labs	5	70	21
+1396	sanjivani coll engn	1	2	2
+1397	sap se	1	0	0
+1398	sapienza univ	1	12	0
+1399	sapienza univ rome	3	37	15
+1400	sardar vallabhbhai natl inst technol	1	15	0
+1401	sardar vallabhbhai natl inst technol svnit	1	0	2
+1402	sartorius stedim biotech gmbh	1	1	0
+1403	sas inst	1	4	4
+1404	sastra deemed univ	7	132	63
+1405	sastra univ	2	154	2
+1406	saudi elect co	1	1	0
+1407	saveetha engn coll	1	1	0
+1408	saveetha inst med & tech sci	1	12	43
+1409	saveetha univ	2	34	3
+1410	sba res	1	28	19
+1411	sch comp sci	1	21	16
+1412	sch comp sci & engn scse ntu	1	3	4
+1413	sch elect & elect engn eee ntu	1	3	4
+1414	sch engn	1	2	0
+1415	schlumberger res	1	66	3
+1416	schneider elect	2	63	29
+1417	schneider elect xiamen switchgear co ltd	1	9	2
+1418	sci & res town	1	20	0
+1419	sci & technol commun secur lab	1	23	0
+1420	sdu univ	1	0	3
+1421	sejong univ	5	127	79
+1422	sence time	1	14	0
+1423	seneca coll appl arts & technol	1	12	3
+1424	sensing & control syst sl	1	0	0
+1425	sensus inc	1	10	2
+1426	seoul natl univ sci & technol	1	0	0
+1427	shaanxi elect power res inst	1	9	0
+1428	shaanxi normal univ	2	16	0
+1429	shaanxi open univ	1	0	3
+1430	shaanxi univ sci & technol	2	3	14
+1431	shahid bahonar univ	1	1	0
+1432	shahid bahonar univ kerman	1	4	1
+1433	shahid beheshti univ	1	0	1
+1434	shahid chamran univ	1	7	0
+1435	shandong inst metrol	1	2	0
+1436	shandong technol & business univ	2	8	0
+1437	shandong univ	2	0	7
+1438	shandong univ finance & econ	1	1	4
+1439	shandong univ sci & technol	1	23	8
+1440	shandong univ technol	1	0	22
+1441	shandong zhongsheng data co ltd	1	0	7
+1442	shanghai jiao tong univ	19	181	113
+1443	shanghai maritime univ	4	52	162
+1444	shanghai univ	3	68	57
+1445	shanghai univ elect power	5	59	91
+1446	shanghai univ int business & econ	1	0	0
+1447	shanghai weizhizhuoxin informat technol co ltd	1	14	0
+1448	shanxi key lab fully mechanized coal min equipmen	1	0	0
+1449	shaoxing univ	1	85	6
+1450	shaqra univ	3	8	14
+1451	sharaf energy syst inc	1	22	0
+1452	sharda univ	1	46	7
+1453	sheffield hallam univ	1	122	2
+1454	shenyang inst automation	1	0	5
+1455	shenyang normal univ	2	42	108
+1456	shenyang univ technol	1	3	0
+1457	shenzhen guodian technol commun co ltd	1	0	1
+1458	shenzhen inst artificial intelligence & robot soc	2	50	11
+1459	shenzhen polytech	2	3	19
+1460	shenzhen power grid util co ltd	1	3	1
+1461	shenzhen power supply bur co ltd	2	5	13
+1462	shenzhen power supply co ltd	1	2	0
+1463	shenzhen res ctr digital city engn	1	0	0
+1464	shenzhen res inst big data	1	2	0
+1465	shenzhen univ	6	327	173
+1466	shiraz univ	3	51	29
+1467	shiraz univ technol	5	153	87
+1468	shoolini univ	1	29	0
+1469	shri jjtu rajasthan	1	0	0
+1470	sichuan conservatory mus	1	24	9
+1471	sichuan elect power corp state grid	1	1	2
+1472	sichuan normal univ	1	11	5
+1473	sichuan univ	5	61	93
+1474	sichuan univ sci & engn	1	3	0
+1475	sidi mohammed ben abdellah univ	1	6	0
+1476	sidroco holdings ltd	4	161	106
+1477	siemens ag	2	0	0
+1478	siemens corp	2	55	24
+1479	siemens corp res	1	44	1
+1480	siemens corp technol	2	60	2
+1481	siemens technol	2	3	7
+1482	siksha o anusandhan univ	2	46	0
+1483	silesian tech univ	6	68	7
+1484	silov solut private ltd	1	0	1
+1485	simats	1	0	0
+1486	simon fraser univ	2	27	8
+1487	simula metropolitan ctr digital engn	1	120	3
+1488	simula res lab	1	138	27
+1489	sindh madressatul islam univ	1	41	44
+1490	singapore management univ	2	39	24
+1491	singapore univ technol & design	11	264	60
+1492	singidunum univ	1	9	0
+1493	sintef energy res	1	2	3
+1494	sirts	1	1	0
+1495	sivas cumhuriyet univ	4	11	60
+1496	sivas univ sci & technol	1	0	7
+1497	sjc inst technol	1	2	0
+1498	sk telecom	1	4	0
+1499	skyline univ coll	1	73	13
+1500	skyrocketai gmbh	1	14	14
+1501	slovak univ technol bratislava	2	11	1
+1502	smart ever co ltd	1	1	35
+1503	sns coll engn	1	0	11
+1504	software motor co	1	19	1
+1505	sohag univ	1	5	0
+1506	sona coll technol	1	0	0
+1507	soochow univ	1	49	17
+1508	soonchunhyang univ	1	1	0
+1509	soongsil univ	3	39	19
+1510	south china univ technol	8	55	27
+1511	south dakota sch mines & technol	1	28	0
+1512	south valley univ	2	6	15
+1513	southeast univ	7	82	42
+1514	southern illinois univ	5	47	65
+1515	southern marine sci & engn guangdong lab zhanjiang	1	0	9
+1516	southern methodist univ	5	351	166
+1517	southern tech univ	1	12	0
+1518	southern univ sci & technol	1	0	10
+1519	southwest inst tech phys	1	0	0
+1520	southwest jiaotong univ	1	41	11
+1521	southwest med univ	1	15	0
+1522	southwest minzu univ	1	1	1
+1523	southwest univ	5	23	8
+1524	spectracom	1	1	0
+1525	spectrum knowledge prod & skills dev	2	33	87
+1526	sr univ	2	2	7
+1527	sreenidhi inst sci & technol	1	1	22
+1528	sri eshwar coll engn	1	0	11
+1529	sri krishna coll engn & technol	1	24	18
+1530	sri ramakrishna engn coll	1	2	5
+1531	sri shakthi inst engn & technol	1	0	11
+1532	sri venkateswara coll engn	1	0	0
+1533	srinivas univ	1	0	3
+1534	srm inst sci & technol	5	71	3
+1535	srm univ	1	0	0
+1536	srm univ ap	1	18	0
+1537	st josephs coll engn	1	0	0
+1538	st michael coll engn & technol	1	10	7
+1539	st petersburg state univ aerosp instrumentat	1	40	6
+1540	st polten univ appl sci	2	27	14
+1541	staffordshire univ	1	73	13
+1542	stanford univ	1	15	9
+1543	state grid anhui elect power co fuyang power suppl	1	1	0
+1544	state grid anhui elect power co ltd	1	4	0
+1545	state grid anhui elect power co suzhou power suppl	1	1	0
+1546	state grid beijing elect power co	2	2	8
+1547	state grid beijing maintenance co	1	2	0
+1548	state grid chongqing elect power co	1	1	0
+1549	state grid commercial elect vehicle investment co	1	0	8
+1550	state grid corp china	3	2	1
+1551	state grid econ & technol res inst co ltd	1	3	7
+1552	state grid elect power res inst	1	0	1
+1553	state grid fujian elect power co ltd	1	0	0
+1554	state grid gansu elect power co	1	7	0
+1555	state grid hebei econ res inst	1	3	7
+1556	state grid hebei elect power co	1	1	0
+1557	state grid hebei elect power co ltd	1	188	59
+1558	state grid henan elect power co	1	1	0
+1559	state grid henan elect power res inst	2	9	1
+1560	state grid hubei elect power co ltd	1	0	0
+1561	state grid hunan elect power co ltd	1	0	0
+1562	state grid hunan extra high voltage substn co	1	0	0
+1563	state grid informat & telecommun branch	1	0	1
+1564	state grid informat & telecommun grp co ltd	1	1	0
+1565	state grid jiangsu elect power co	4	279	38
+1566	state grid jiangsu informat & telecommun co	1	0	1
+1567	state grid jiangxi elect power co ltd	2	7	1
+1568	state grid jibei elect power co ltd	1	4	3
+1569	state grid liaoning elect power co	1	38	2
+1570	state grid liaoning elect power co ltd	1	0	0
+1571	state grid liaoning mkt serv ctr	1	0	0
+1572	state grid nanjing automat res inst nari	1	438	37
+1573	state grid ningbo power supply co	1	0	0
+1574	state grid ningxia yinchuan elect power co	1	13	4
+1575	state grid shaanxi elect power co	1	5	12
+1576	state grid shaanxi elect power res inst	1	5	12
+1577	state grid shandong elect power co	1	0	0
+1578	state grid shandong elect power res inst	1	0	0
+1579	state grid shanghai municipal elect power co	2	3	10
+1580	state grid shanghai shinan elect power supply co	1	17	0
+1581	state grid sichuan elect power co	1	11	0
+1582	state grid sichuan elect power res inst	2	1	2
+1583	state grid taizhou power supply co	1	8	2
+1584	state grid tianjin elect power co	2	3	2
+1585	state grid xinjiang co ltd	1	9	0
+1586	state grid xinjiang elect power co	1	94	40
+1587	state grid xinjiang elect power co ltd	1	1	0
+1588	state grid zhejiang elect power co ltd	2	13	5
+1589	state grid zhenjiang elect power co ltd	1	0	0
+1590	state key lab low carbon smart coal fired power ge	1	0	0
+1591	state key lab nucl power safety monitoring techno	1	24	8
+1592	state key lab power grid environm protect	1	0	0
+1593	state key lab smart grid protect & control	1	0	4
+1594	state univ appl sci nowy sacz	1	5	0
+1595	state univ ceara uece	2	67	34
+1596	state univ management	1	13	0
+1597	state univ new york buffalo state	1	10	0
+1598	state univ rio janeiro	1	0	3
+1599	steag energy serv gmbh	1	11	7
+1600	stellenbosch univ	1	0	8
+1601	stevens inst technol	2	32	39
+1602	stmik pringsewu	1	144	0
+1603	stronghold resource partners	1	0	2
+1604	sudan univ sci & technol	1	2	16
+1605	sultan qaboos univ	3	5	9
+1606	sumy state univ	1	0	16
+1607	sun yat sen univ	2	124	21
+1608	sungkyunkwan univ	2	6	23
+1609	sunway univ	2	23	10
+1610	suny albany	1	3	0
+1611	suny buffalo	1	5	4
+1612	suny polytech inst	8	86	472
+1613	suny polytechn inst	1	0	47
+1614	suomen hyotytuuli oy	1	2	7
+1615	super univ	2	6	30
+1616	sutd	1	10	2
+1617	swiss fed inst technol	2	31	0
+1618	swiss fed labs mat sci & technol	1	52	0
+1619	symbiosis inst technol	1	25	32
+1620	symbiosis int deemed univ	2	62	3
+1621	symbiosis int deemed univ siu	1	0	0
+1622	symbiosis int univ	1	2	5
+1623	syracuse univ	2	13	2
+1624	taber int	1	16	0
+1625	tafila tech univ	1	0	4
+1626	taibah univ	2	0	19
+1627	taif univ	9	136	53
+1628	taiyuan univ sci & technol	2	104	20
+1629	taiyuan univ technol	3	24	19
+1630	taiz univ	1	31	52
+1631	tallinn univ technol	2	11	0
+1632	tamale tech univ	1	2	0
+1633	tampere univ	2	7	7
+1634	tangshan univ	1	37	0
+1635	tarbiat modares univ	1	26	20
+1636	target ai	1	7	0
+1637	tashkent state univ econ	1	4	7
+1638	tauron wytwarzanie sa	2	25	2
+1639	teamware	1	0	0
+1640	tech univ catalonia	1	65	24
+1641	tech univ catalonia upc	1	3	4
+1642	tech univ cluj napoca	5	84	19
+1643	tech univ crete	2	2	0
+1644	tech univ darmstadt	2	45	19
+1645	tech univ denmark	9	336	70
+1646	tech univ dortmund	1	0	0
+1647	tech univ munich	2	65	0
+1648	tech univ sofia	2	4	3
+1649	tech univ wien	1	1	0
+1650	technol & innovat ctr	1	30	6
+1651	technol innovat inst	2	6	34
+1652	technol water control syst & management co	1	17	0
+1653	tecnalia	1	56	0
+1654	tecnau srl	1	0	0
+1655	tecnm chihuahua	1	0	5
+1656	tecnol monterrey	2	13	6
+1657	teesside univ	1	0	0
+1658	tel aviv univ	3	36	2
+1659	telecom paristech	1	32	9
+1660	telecommun technol ctr catalonia cttc	1	3	4
+1661	temple univ	1	0	0
+1662	tencent inc	1	39	24
+1663	tennessee technol univ	31	651	1070
+1664	terna coll engn	1	0	2
+1665	terna spa	1	1	0
+1666	texas a&m int univ	1	4	0
+1667	texas a&m univ	24	558	564
+1668	texas a&m univ cent texas	1	2	11
+1669	texas a&m univ kingsville	4	94	50
+1670	texas a&m univ qatar	12	247	272
+1671	texas tech univ	4	32	18
+1672	thales belgium	1	5	4
+1673	thapar inst engn & technol	6	383	45
+1674	thiagarajar coll engn	1	24	18
+1675	thompson rivers univ	1	6	12
+1676	tianjin chengjian univ	1	45	9
+1677	tianjin keyvia elect co ltd	1	45	9
+1678	tianjin municipal	1	20	0
+1679	tianjin renai coll	1	0	0
+1680	tianjin survey & design inst water transport engn	1	1	0
+1681	tianjin univ	12	160	28
+1682	tianjin univ sci & technol	1	0	1
+1683	tianjin univ technol	1	1	0
+1684	tishk int univ tiu	2	78	3
+1685	tishreen univ	3	77	41
+1686	tkm coll engn	1	6	0
+1687	tohoku univ	1	0	0
+1688	tokyo denki univ	1	0	0
+1689	tokyo inst technol	1	2	2
+1690	tokyo univ agr & technol	1	11	0
+1691	tongji univ	3	87	39
+1692	toronto metropolitan univ	2	4	46
+1693	torrens univ	1	0	8
+1694	towson univ	2	19	12
+1695	toyota cent res & dev labs inc	2	1	0
+1696	toyota tsusho corp	2	1	0
+1697	tra vinh univ	1	13	0
+1698	transmiss co nigeria tcn	1	0	0
+1699	transmissora alianc energia elect sataesa	1	4	0
+1700	transmissora alianca energia eletr sa taesa	1	0	0
+1701	trianel windpk borkum gmbh & co kg	1	11	7
+1702	tribhuvan univ	1	28	0
+1703	trinity coll dublin	1	9	2
+1704	tshwane univ technol	3	95	32
+1705	tsinghua univ	15	185	51
+1706	tu dortmund univ	2	5	0
+1707	tu graz sal lab	1	8	0
+1708	tu wien	1	0	0
+1709	tubitak mrc energy technol	1	3	0
+1710	tufts univ	2	4	0
+1711	turkiye is kurumu iskur	1	1	0
+1712	tusimple co	1	77	15
+1713	uae univ	2	28	7
+1714	ucem	1	0	0
+1715	ucl	3	235	60
+1716	ucsi univ	2	94	35
+1717	ufpr brazil	1	1	0
+1718	umm al qura univ	9	165	151
+1719	unesp sao paulo state univ	1	5	3
+1720	unicen	1	1	0
+1721	united arab emirates univ	2	22	7
+1722	united technol res ctr	1	6	0
+1723	univ a coruna	1	5	0
+1724	univ abdou moumouni	1	1	0
+1725	univ adelaide	1	1	0
+1726	univ aden	1	23	30
+1727	univ aegean	1	16	0
+1728	univ agder	4	24	41
+1729	univ agr faisalabad	1	34	0
+1730	univ aizu	1	0	0
+1731	univ akron	3	483	228
+1732	univ alabama	5	101	43
+1733	univ alabama huntsville	1	1	6
+1734	univ albaha	1	34	33
+1735	univ alberta	6	188	45
+1736	univ alcala	1	3	0
+1737	univ amar telidji	1	36	3
+1738	univ anbar	1	0	4
+1739	univ andes	3	18	25
+1740	univ antioquia	1	4	0
+1741	univ appl sci & arts southern switzerland	1	3	3
+1742	univ appl sci kempten	1	1	0
+1743	univ aquila	2	173	4
+1744	univ arizona	1	26	0
+1745	univ arkansas	2	103	48
+1746	univ auckland	2	28	9
+1747	univ autonoma carmen	1	31	3
+1748	univ autonoma queretaro	1	0	2
+1749	univ autonoma yucatan	1	4	0
+1750	univ aveiro	1	23	18
+1751	univ azad jammu & kashmir	2	5	17
+1752	univ badji mokhtar annaba	1	35	10
+1753	univ baghdad	3	4	22
+1754	univ bahrain	1	14	27
+1755	univ bari aldo moro	1	34	4
+1756	univ basque country	4	72	57
+1757	univ bath	3	29	10
+1758	univ batna 2	4	52	162
+1759	univ bayreuth	1	0	12
+1760	univ beira interior	1	1	0
+1761	univ belgrade	4	64	37
+1762	univ bina darma	1	2	1
+1763	univ bina insan	1	0	11
+1764	univ birjand	1	5	0
+1765	univ bisha	4	79	49
+1766	univ blida 1	1	0	0
+1767	univ bologna	1	6	0
+1768	univ bolton	2	55	1
+1769	univ bourgogne	1	0	0
+1770	univ bremen	2	66	3
+1771	univ brescia	2	24	11
+1772	univ brest	4	52	162
+1773	univ british columbia	3	72	27
+1774	univ british columbia okanagan	2	23	0
+1775	univ bucharest	1	1	0
+1776	univ burgos	1	5	0
+1777	univ burgundy	2	43	53
+1778	univ business & technol	1	0	56
+1779	univ business & technol ubt	1	15	16
+1780	univ cagliari	1	6	0
+1781	univ calabria	3	41	59
+1782	univ calgary	7	191	158
+1783	univ calif davis	1	40	0
+1784	univ calif irvine	1	5	2
+1785	univ calif los angeles	3	139	27
+1786	univ calif san diego	3	19	1
+1787	univ cambridge	2	46	0
+1788	univ campania l vanvitelli	1	15	0
+1789	univ campinas unicamp	1	0	0
+1790	univ campus bio med roma	1	3	3
+1791	univ canada west	2	10	7
+1792	univ cardiff	1	2	0
+1793	univ carlos iii madrid	5	16	99
+1794	univ carthage	1	54	1
+1795	univ castilla la mancha	4	86	33
+1796	univ catolica cuenca	1	0	0
+1797	univ cent florida	4	130	37
+1798	univ cent missouri	1	4	20
+1799	univ chile	3	179	48
+1800	univ chinese acad sci	2	42	10
+1801	univ coimbra	6	55	17
+1802	univ coll dublin	4	27	51
+1803	univ coll dublin belfield	1	7	0
+1804	univ coll dublin ireland	1	7	0
+1805	univ coll engn	1	0	1
+1806	univ cologne	1	2	2
+1807	univ colombo	1	1	2
+1808	univ colorado	3	244	6
+1809	univ complutense madrid	2	5	0
+1810	univ connecticut	2	3	7
+1811	univ cordoba	1	6	0
+1812	univ ctr nour bachir	1	0	0
+1813	univ ctr salhi ahmed naama	1	0	0
+1814	univ cuenca	4	9	10
+1815	univ cyprus	2	18	23
+1816	univ delaware	1	4	4
+1817	univ denver	3	51	0
+1818	univ dubai	1	6	0
+1819	univ dublin	1	6	47
+1820	univ duisburg essen	1	0	2
+1821	univ durham	2	54	22
+1822	univ eastern finland	1	63	2
+1823	univ ecotec	1	40	23
+1824	univ edinburgh	2	298	28
+1825	univ elec sci & tech china	1	6	0
+1826	univ elect sci & technol	1	18	10
+1827	univ elect sci & technol china	15	241	69
+1828	univ electrocommun	1	1	0
+1829	univ engn & appl sci	1	0	0
+1830	univ engn & technol	4	56	10
+1831	univ engn & technol & lahore	2	14	22
+1832	univ engn & technol taxila	1	23	30
+1833	univ engn & technol uet	1	2	0
+1834	univ essex	3	149	98
+1835	univ estadual campinas	2	4	0
+1836	univ estadual paulista	1	16	7
+1837	univ europea atlantico	1	2	0
+1838	univ evora	1	11	0
+1839	univ exeter	2	76	27
+1840	univ extremadura	1	56	0
+1841	univ faisalabad	1	2	6
+1842	univ fed ceara	1	28	0
+1843	univ fed fluminense	3	6	2
+1844	univ fed itajuba	1	0	0
+1845	univ fed lavras	1	7	0
+1846	univ fed mato grosso	1	1	0
+1847	univ fed minas gerais	1	4	0
+1848	univ fed pampa	2	3	2
+1849	univ fed paraiba	1	5	2
+1850	univ fed pernambuco	1	3	1
+1851	univ fed rio grande do sul	1	53	0
+1852	univ fed rio janeiro	1	0	3
+1853	univ fed santa catarina	2	28	4
+1854	univ fed santa maria	2	10	2
+1855	univ fed uberlandia	2	5	1
+1856	univ ferhat abbas set 1	1	0	1
+1857	univ florida	7	104	77
+1858	univ ft hare	1	0	0
+1859	univ galway	1	6	3
+1860	univ gavle	1	39	0
+1861	univ geneva	1	23	5
+1862	univ genoa	1	1	0
+1863	univ georgia	4	171	80
+1864	univ ghana	1	0	9
+1865	univ ghent	1	43	3
+1866	univ glasgow	5	97	23
+1867	univ goettingen	1	17	5
+1868	univ gothenburg	1	88	9
+1869	univ gottingen	1	45	19
+1870	univ granada	3	4	0
+1871	univ greenwich	2	56	72
+1872	univ grenoble alpes	1	2	5
+1873	univ guadalajara	1	4	0
+1874	univ guelma	1	9	3
+1875	univ guelph	5	195	165
+1876	univ guilan	1	11	5
+1877	univ haifa	1	8	0
+1878	univ hail	4	21	21
+1879	univ hawaii manoa	3	13	27
+1880	univ helsinki	1	317	24
+1881	univ hertfordshire	3	18	9
+1882	univ hong kong	3	19	17
+1883	univ hormozgan	2	40	62
+1884	univ houston	6	115	15
+1885	univ hradec kralove	2	22	0
+1886	univ huddersfield	1	0	4
+1887	univ hull	1	50	7
+1888	univ ibadan	1	20	0
+1889	univ idaho	5	125	70
+1890	univ illinois	8	222	150
+1891	univ indo global mandiri	1	0	11
+1892	univ indonesia	1	5	0
+1893	univ innsbruck	1	10	16
+1894	univ inst technol rgpv	1	0	0
+1895	univ int cuanza	1	2	0
+1896	univ int ecuador	1	3	37
+1897	univ int iberoamer	1	40	8
+1898	univ int iberoamericana	1	2	0
+1899	univ ioannina	1	3	0
+1900	univ jadavpur	1	2	0
+1901	univ jaen	3	9	10
+1902	univ jeddah	1	11	22
+1903	univ jinan	1	2	0
+1904	univ johannesburg	14	369	254
+1905	univ jordan	2	45	4
+1906	univ kahramanmaras istiklal	1	0	0
+1907	univ kahramanmaras sutcu imam	1	0	0
+1908	univ kaiserslautern	2	0	0
+1909	univ kashan	1	18	9
+1910	univ kassel	1	2	0
+1911	univ kebangsaan malaysia	4	97	78
+1912	univ kelaniya	1	0	0
+1913	univ kentucky	3	116	19
+1914	univ kharazmi	1	12	10
+1915	univ kingston	2	67	34
+1916	univ kirkuk	1	1	16
+1917	univ klagenfurt	2	7	23
+1918	univ kristen imanuel	1	1	0
+1919	univ kuala lumpur	1	1	10
+1920	univ kurdistan	2	1	0
+1921	univ kwazulu natal	3	65	10
+1922	univ lagos	1	0	0
+1923	univ lahore	1	3	0
+1924	univ lancaster	5	283	49
+1925	univ leeds	2	34	45
+1926	univ liberal arts bangladesh	1	22	0
+1927	univ lille	3	15	6
+1928	univ limerick	1	11	0
+1929	univ lincoln	1	35	10
+1930	univ lisbon	4	114	14
+1931	univ ljubljana	1	7	0
+1932	univ london imperial coll sci technol & med	1	31	0
+1933	univ lorraine	1	0	5
+1934	univ luxembourg	2	102	85
+1935	univ macau	1	2	19
+1936	univ macedonia	2	79	62
+1937	univ maiduguri	1	3	4
+1938	univ maine	1	15	3
+1939	univ maine presque isle	1	31	52
+1940	univ malaga	3	14	1
+1941	univ malaya	1	54	1
+1942	univ malaysia sabah	1	11	0
+1943	univ malaysia sarawak	2	72	25
+1944	univ management & technol	1	15	0
+1945	univ manchester	6	72	5
+1946	univ maryland baltimore cty	2	83	32
+1947	univ massachusetts	1	8	0
+1948	univ mazandaran	1	0	6
+1949	univ mazandaran umz	1	0	6
+1950	univ med & dent new jersey	1	66	3
+1951	univ melbourne	2	15	0
+1952	univ memphis	3	80	90
+1953	univ messina	2	96	14
+1954	univ mhamed bougara	1	0	1
+1955	univ miami	1	0	5
+1956	univ michigan	4	59	61
+1957	univ michigan dearborn	1	0	10
+1958	univ michoacana	1	0	0
+1959	univ milan	1	3	24
+1960	univ milano bicocca	1	92	0
+1961	univ minnesota	3	314	38
+1962	univ missouri	1	40	0
+1963	univ mohamed vi polytech um6p	1	1	2
+1964	univ molise	2	16	10
+1965	univ moncton	2	33	87
+1966	univ montenegro	2	18	2
+1967	univ moratuwa	3	53	12
+1968	univ mosul	1	1	0
+1969	univ multan	1	34	29
+1970	univ n carolina	1	85	16
+1971	univ nacl autonoma mexico	1	0	0
+1972	univ nacl colombia	1	0	0
+1973	univ nacl san luis	1	1	0
+1974	univ naples federico ii	2	7	51
+1975	univ naples l orientale	1	22	4
+1976	univ navarra	1	6	0
+1977	univ nebraska	2	13	18
+1978	univ nevada	4	97	25
+1979	univ nevada las vegas	1	0	17
+1980	univ new brunswick	4	115	6
+1981	univ new mexico	3	31	3
+1982	univ new orleans	1	28	0
+1983	univ new s wales	1	40	0
+1984	univ new south wales	9	463	266
+1985	univ new south wales canberra	2	90	0
+1986	univ new south wales canberra adfa	1	11	9
+1987	univ new south wales sydney	2	21	7
+1988	univ new south wales unsw	1	21	0
+1989	univ newcastle	2	51	35
+1990	univ nis	1	7	0
+1991	univ north dakota	1	0	5
+1992	univ north florida	1	1	14
+1993	univ north texas	3	14	53
+1994	univ northern british columbia	1	15	5
+1995	univ northumbria	2	54	22
+1996	univ nottingham malaysia	1	1	0
+1997	univ novi sad	3	4	7
+1998	univ ontario	1	42	1
+1999	univ oradea	1	1	0
+2000	univ oslo	2	258	30
+2001	univ ottawa	6	421	40
+2002	univ oviedo	2	14	43
+2003	univ oxford	2	71	22
+2004	univ padua	2	38	3
+2005	univ palermo	1	19	0
+2006	univ pamplona	1	6	0
+2007	univ paris 06	1	0	0
+2008	univ paris est creteil	1	1	0
+2009	univ paris saclay	3	21	13
+2010	univ pasundan	1	4	0
+2011	univ patras	4	15	10
+2012	univ pavia	1	1	0
+2013	univ peloponnese	1	4	18
+2014	univ pennsylvania	1	0	1
+2015	univ perugia	2	23	18
+2016	univ petr & energy studies	5	55	22
+2017	univ petr & studies upes	1	2	0
+2018	univ philippines open univ	1	1	17
+2019	univ piraeus	2	35	40
+2020	univ pisa	1	1	29
+2021	univ pittsburgh	4	15	12
+2022	univ planalto catarinense	1	3	2
+2023	univ plymouth	1	18	7
+2024	univ politecn cataluna	5	8	38
+2025	univ politecn catalunya ets engn ind barcelona	1	19	7
+2026	univ politecn catalunya upc	2	43	23
+2027	univ politecn madrid	5	52	69
+2028	univ politecn salesiana	1	7	0
+2029	univ politecn valencia	3	122	11
+2030	univ politehn bucuresti	1	10	4
+2031	univ pontificia comillas	1	9	0
+2032	univ porto	2	20	45
+2033	univ porto feup	1	10	2
+2034	univ pretoria	3	27	40
+2035	univ publ navarra	1	23	0
+2036	univ puerto rico	2	63	51
+2037	univ punjab	1	15	6
+2038	univ putra malaysia upm	1	1	2
+2039	univ quebec	3	75	4
+2040	univ quebec chicoutimi uqac	1	51	84
+2041	univ quebec outaouais	1	12	16
+2042	univ queensland	6	41	41
+2043	univ regina	2	12	55
+2044	univ rhode isl	3	230	7
+2045	univ rochester	1	5	0
+2046	univ roehampton	1	1	5
+2047	univ roma la sapienza	1	20	4
+2048	univ roma tor vergata	2	91	11
+2049	univ rome sapienza	1	1	4
+2050	univ rwanda	1	39	0
+2051	univ s florida	3	13	17
+2052	univ saida	1	0	0
+2053	univ saida dr moulay tahar	2	24	52
+2054	univ sains malaysia usm	1	1	10
+2055	univ salamanca	3	8	2
+2056	univ salerno	7	227	78
+2057	univ sannio	2	11	6
+2058	univ santiago chile	2	0	0
+2059	univ sao paulo	5	34	8
+2060	univ sargodha	1	0	13
+2061	univ saskatchewan	2	52	4
+2062	univ sci & technol	2	13	0
+2063	univ sci & technol beijing	2	35	84
+2064	univ sci & technol china	3	16	30
+2065	univ sci & technol houari boumediene usthb	1	0	1
+2066	univ sci & technol oran	1	0	1
+2067	univ sci & technol oran mohamed boudiaf usto mb	1	2	28
+2068	univ seville	4	81	2
+2069	univ shanghai sci & technol	1	1	6
+2070	univ sharjah	3	46	35
+2071	univ sheffield	3	37	48
+2072	univ sherbrooke	1	0	0
+2073	univ sidi mohamed ben abdellah	1	0	13
+2074	univ south australia	2	214	21
+2075	univ south carolina	1	22	11
+2076	univ south pacific	1	81	25
+2077	univ south wales	2	24	18
+2078	univ southampton	1	2	0
+2079	univ southern calif	4	42	0
+2080	univ southern denmark	1	2	0
+2081	univ southern queensland	2	37	15
+2082	univ sri jayewardenepura	1	0	0
+2083	univ sriwijaya	3	5	32
+2084	univ stavanger	7	30	20
+2085	univ strathclyde	9	310	85
+2086	univ stuttgart	1	88	9
+2087	univ sultan zainal abidin	1	1	16
+2088	univ sunshine coast	2	121	25
+2089	univ surrey	4	132	101
+2090	univ svizzera italiana	1	2	0
+2091	univ sydney	8	112	40
+2092	univ tabriz	14	207	196
+2093	univ tabuk	8	57	133
+2094	univ tartu	1	37	9
+2095	univ technol bahrain	1	2	2
+2096	univ technol sydney	13	238	133
+2097	univ technol troyes	2	91	45
+2098	univ tecn federico santa maria	2	23	27
+2099	univ tehran	5	74	49
+2100	univ teknol malaysia	4	34	74
+2101	univ teknol malaysia utm	1	2	0
+2102	univ teknol mara	1	0	0
+2103	univ teknol petronas	6	115	38
+2104	univ tenaga nas	2	3	5
+2105	univ tennessee	5	128	36
+2106	univ tennessee knoxville	1	0	2
+2107	univ texas arlington	2	77	23
+2108	univ texas austin	3	0	4
+2109	univ texas dallas	5	64	19
+2110	univ texas permian basin	2	40	63
+2111	univ texas rio grande valley	1	6	0
+2112	univ texas san antonio	9	661	233
+2113	univ thessaly	1	4	2
+2114	univ tokyo	1	14	0
+2115	univ torino	1	1	0
+2116	univ toronto	5	63	61
+2117	univ toulouse	2	34	33
+2118	univ tulsa	1	3	0
+2119	univ tun hussein onn	1	0	4
+2120	univ tunis	1	15	0
+2121	univ turku	1	0	0
+2122	univ tuscia	1	37	10
+2123	univ twente	1	1	0
+2124	univ uberlandia	1	0	1
+2125	univ udine	2	15	2
+2126	univ ulm	1	5	0
+2127	univ ulsan	7	481	186
+2128	univ ulster	1	0	0
+2129	univ umm al qura	1	25	53
+2130	univ utah	3	78	19
+2131	univ vaasa	7	125	94
+2132	univ valladolid	2	37	3
+2133	univ valle	1	9	2
+2134	univ vermont	2	8	6
+2135	univ verona	1	0	0
+2136	univ vic cent univ catalonia	1	22	4
+2137	univ victoria	2	62	24
+2138	univ wah	1	53	9
+2139	univ warith al anbiyaa	1	13	0
+2140	univ warwick	6	42	39
+2141	univ washington	2	49	25
+2142	univ waterloo	7	207	125
+2143	univ west attica	2	23	11
+2144	univ west florida	2	21	9
+2145	univ west scotland	1	7	0
+2146	univ western australia	1	0	0
+2147	univ western macedonia	9	283	234
+2148	univ western ontario	1	1	0
+2149	univ windsor	8	175	88
+2150	univ wisconsin parkside	1	1	0
+2151	univ witwatersrand	2	66	56
+2152	univ wolverhampton	2	21	10
+2153	univ worcester	1	12	28
+2154	univ zanjan	1	2	0
+2155	univ zaragoza	3	31	3
+2156	unsl	1	1	0
+2157	unsw	1	4	18
+2158	unsw sydney	1	0	6
+2159	upside energy	1	278	28
+2160	ural fed univ	1	1	9
+2161	us army res lab	1	0	0
+2162	us army res lab adelphi	1	9	13
+2163	us doe	1	0	5
+2164	us lab	1	1	0
+2165	us mil acad	1	2	0
+2166	usmba univ	1	0	0
+2167	ustc	1	1	0
+2168	utah div drinking water	1	4	0
+2169	utah state univ	1	28	0
+2170	ute univ	1	12	43
+2171	utn	1	0	6
+2172	uttaranchal univ	1	40	8
+2173	uzhgorod natl univ	1	4	0
+2174	vanderbilt univ	2	32	18
+2175	vardhaman coll engn	1	7	22
+2176	vardhaman coll engn kacharam	1	1	22
+2177	veer surendra sai univ technol	1	0	0
+2178	vel tech multi tech dr rr dr sr engn coll	1	0	0
+2179	vel tech rangarajan dr sagunthala r&d inst sci &	1	50	39
+2180	vel tech rangarajan dr sagunthala r&d inst sci & t	3	10	22
+2181	vel tech rangarajan dr sagunthala r&d inst sci &te	1	0	6
+2182	vellore inst technol	23	322	276
+2183	vellore inst technol chennai	1	2	2
+2184	vellore inst technol vit	1	6	19
+2185	vellore univ	1	0	0
+2186	vels inst sci technol & adv studies	1	0	3
+2187	victoria univ	3	15	3
+2188	victoria univ wellington	1	45	3
+2189	vidyavardhaka coll engn	1	0	0
+2190	vietnam posts & telecommun grp	1	34	4
+2191	villanova univ	1	0	0
+2192	vinot bv	1	2	2
+2193	virginia commonwealth univ	1	14	0
+2194	virginia polytech inst & state univ	2	30	17
+2195	virginia tech	7	57	101
+2196	virtual univ pakistan	4	79	173
+2197	vishwakarma univ	2	100	44
+2198	visvesvaraya natl inst technol	1	1	0
+2199	vit ap	1	1	0
+2200	vit bhopal univ	2	15	0
+2201	vit tall energy unit	1	0	0
+2202	vit univ	1	17	8
+2203	vjti	2	15	14
+2204	vr siddhartha engn coll	1	12	0
+2205	vrije univ brussel	1	3	3
+2206	vrije univ brussel vub	1	0	0
+2207	vtrc arlington	1	11	5
+2208	vtt tech res ctr finland	1	0	1
+2209	vtu	1	6	14
+2210	wageningen univ & res	1	10	16
+2211	wakaru consulting lda	1	8	5
+2212	wapcos ltd	1	0	19
+2213	wapda	1	6	0
+2214	warsaw univ life sci	1	6	0
+2215	warsaw univ life sci sggw	1	5	0
+2216	warsaw univ life sci wuls sggw	1	15	23
+2217	warsaw univ technol	4	33	24
+2218	waseda univ	1	49	34
+2219	washington state univ	10	237	66
+2220	washington state univ wsu	1	2	1
+2221	washington univ	4	369	67
+2222	wayne state univ	1	41	0
+2223	weifang univ sci & technol	1	23	8
+2224	weihai power supply co	1	1	0
+2225	weizmann inst sci	1	125	0
+2226	wenzhou univ	1	0	0
+2227	west univ timisoara	2	10	0
+2228	west virginia univ	3	16	24
+2229	western kentucky univ	1	7	0
+2230	western michigan univ	3	28	4
+2231	western univ	2	40	8
+2232	windsor univ	1	6	0
+2233	worms univ appl sci	1	5	2
+2234	wpd windmanager gmbh & co kg	1	32	1
+2235	wright state univ	1	0	47
+2236	wroclaw univ technol	1	0	0
+2237	wsu	1	2	1
+2238	wuhan text univ	2	0	0
+2239	wuhan univ	7	74	32
+2240	wuhan univ technol	2	29	13
+2241	wuyi univ	2	20	0
+2242	xemc wind power co ltd	1	20	3
+2243	xi an jiao tong univ	14	240	127
+2244	xiamen key lab frontier elect power equipment & in	1	1	0
+2245	xiamen univ	1	5	0
+2246	xiamen univ technol	2	28	4
+2247	xian jiaotong liverpool univ	1	0	0
+2248	xian key lab interconnected sensing & intelligent	1	0	2
+2249	xian polytech univ	3	8	3
+2250	xian united ride intelligent technol co ltd	1	17	0
+2251	xian univ sci & technol	1	0	0
+2252	xian univ technol	1	11	0
+2253	xichang univ	1	3	0
+2254	xidian univ	9	224	162
+2255	xijing univ	1	11	6
+2256	xinjiang univ	3	1	3
+2257	xinjiang xinneng grp co ltd	1	9	0
+2258	xm elect market experts	1	9	2
+2259	xm sa esp	1	1	0
+2260	xpertpower associates	1	10	0
+2261	xylem	1	15	0
+2262	yale law sch	1	4	0
+2263	yanshan univ	3	20	24
+2264	yeungnam univ	4	76	7
+2265	yncrea hauts france	1	1	0
+2266	yobe state univ	1	3	4
+2267	yonsei univ	2	31	8
+2268	york univ	5	81	32
+2269	yunnan power grid co ltd	2	4	13
+2270	zagazig univ	2	69	43
+2271	zhejiang acad agr sci	1	33	0
+2272	zhejiang gongshan univ	1	38	1
+2273	zhejiang gongshang univ	1	8	6
+2274	zhejiang lab	1	3	1
+2275	zhejiang normal univ	3	23	33
+2276	zhejiang ocean univ	1	0	6
+2277	zhejiang power corp	1	0	1
+2278	zhejiang univ	18	256	156
+2279	zhejiang univ city coll	1	33	0
+2280	zhejiang univ technol	2	33	12
+2281	zhejiang wanli univ	1	0	0
+2282	zhejiang windey co ltd	1	0	8
+2283	zhejiang yuexiu univ	1	1	0
+2284	zhejiang zheneng jiahua elect power generat co ltd	1	2	0
+2285	zhengzhou business univ	1	10	0
+2286	zhengzhou univ	6	65	174
+2287	zhongda grp	3	64	107
+2288	zhongkai univ agr & engn	1	6	0
+2289	zhongnan univ econ & law	2	36	0
+2290	zhongyuan univ technol	1	12	17
+2291	zibo metrol technol res inst	1	0	22
+2292	zunyi med univ	1	14	3
+2293	zurich univ appl sci	1	0	0

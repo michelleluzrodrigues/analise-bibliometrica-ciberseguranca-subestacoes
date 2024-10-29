@@ -1,0 +1,99 @@
+﻿id	country	documents	citations	total link strength
+1	algeria	21	439	233
+2	angola	1	2	0
+3	argentina	4	10	8
+4	australia	103	2933	711
+5	austria	17	477	70
+6	bahrain	4	24	25
+7	bangladesh	8	188	46
+8	belgium	10	92	27
+9	brazil	42	560	102
+10	bulgaria	3	8	15
+11	c1	1	0	0
+12	canada	110	2268	836
+13	chile	7	202	51
+14	colombia	11	62	18
+15	croatia	1	6	0
+16	cyprus	12	275	137
+17	czech republic	9	90	59
+18	denmark	23	841	133
+19	ecuador	12	145	115
+20	egypt	44	613	475
+21	england	101	2608	712
+22	estonia	4	78	6
+23	ethiopia	8	89	79
+24	fiji	1	81	18
+25	finland	21	561	99
+26	france	29	352	266
+27	gabon	2	33	63
+28	germany	51	547	100
+29	ghana	4	5	18
+30	greece	33	743	222
+31	hungary	1	4	5
+32	india	209	2877	927
+33	indonesia	7	159	23
+34	iran	51	715	317
+35	iraq	15	132	32
+36	ireland	8	56	45
+37	israel	9	228	50
+38	italy	65	948	270
+39	japan	25	381	76
+40	jordan	7	94	39
+41	kazakhstan	5	8	6
+42	kuwait	1	1	5
+43	kyrgyzstan	1	30	0
+44	lebanon	11	124	150
+45	libya	2	6	16
+46	lithuania	3	51	36
+47	luxembourg	4	164	71
+48	malaysia	32	427	195
+49	mexico	13	178	41
+50	montenegro	2	18	1
+51	morocco	19	256	89
+52	nepal	1	28	0
+53	netherlands	15	436	58
+54	new zealand	8	104	42
+55	niger	1	1	0
+56	nigeria	11	75	30
+57	north ireland	3	3	0
+58	norway	22	418	126
+59	oman	6	28	44
+60	pakistan	76	1366	712
+61	palestine	1	19	4
+62	china	459	7310	1854
+63	peru	2	7	9
+64	philippines	1	1	12
+65	poland	21	325	65
+66	portugal	26	249	82
+67	qatar	29	783	547
+68	romania	14	110	17
+69	russia	10	93	52
+70	rwanda	1	39	0
+71	saudi arabia	133	1718	1187
+72	scotland	22	696	116
+73	serbia	12	90	34
+74	singapore	46	993	231
+75	slovakia	5	34	13
+76	slovenia	4	67	7
+77	south africa	26	604	269
+78	south korea	83	1501	575
+79	spain	61	829	278
+80	sri lanka	5	54	12
+81	sudan	1	2	12
+82	sweden	28	661	195
+83	switzerland	8	111	8
+84	syria	3	77	34
+85	taiwan	28	432	156
+86	thailand	6	35	31
+87	tunisia	6	209	111
+88	turkey	23	367	187
+89	turkiye	20	62	148
+90	u arab emirates	30	535	239
+91	ukraine	5	11	13
+92	usa	412	9648	2352
+93	uzbekistan	1	4	7
+94	vietnam	9	150	50
+95	wales	10	153	38
+96	yemen	2	54	61
+97	zambia	1	4	4
+98	zimbabwe	1	3	2
